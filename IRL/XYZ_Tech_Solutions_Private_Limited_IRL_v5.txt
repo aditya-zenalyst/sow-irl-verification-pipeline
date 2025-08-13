@@ -1,0 +1,96 @@
+INFORMATION REQUIREMENTS LIST
+==================================================
+Company: XYZ Tech Solutions Private Limited
+Generated: August 02, 2025
+
+Historical period: FY2014-2015, FY2013-2014
+Balance sheet date: March 31, 2015
+Information on consolidated basis wherever applicable
+
+==================================================
+
+1. (a) Monthly revenue data by product/service line for FY2024-2025
+(b) Detailed breakdown of recurring vs. non-recurring revenue streams
+(c) Documentation of revenue recognition timing policies and procedures
+(d) Analysis of revenue deferrals and adjustments by quarter
+(e) Schedule of any revenue restatements or material adjustments
+(f) Supporting documentation for top 10 revenue transactions (Priority: High)
+
+2. (a) Gross margin analysis by product/service category
+(b) Monthly trending of revenue vs. cost of sales
+(c) Documentation of pricing changes and their revenue impact
+(d) Analysis of service delivery costs vs. revenue recognition
+(e) Breakdown of fixed vs. variable revenue components
+(f) Revenue forecasting methodologies and assumptions (Priority: Medium)
+
+3. (a) Schedule of one-time revenue items or unusual transactions
+(b) Analysis of seasonal revenue patterns and adjustments
+(c) Documentation of revenue recognition criteria by offering
+(d) Revenue waterfall analysis for subscription services
+(e) Impact analysis of accounting policy changes on revenue
+(f) Reconciliation of GAAP vs. management revenue reporting (Priority: High)
+
+4. (a) Revenue concentration analysis by product/geography
+(b) Documentation of revenue-related internal controls
+(c) Analysis of contract modification impacts on revenue
+(d) Schedule of revenue-related estimates and judgments
+(e) Supporting documentation for revenue recognition timing
+(f) Quality of earnings adjustments schedule
+**CUSTOMER ANALYSIS** (Priority: High)
+
+1. (a) Top 20 customer contracts with complete terms and conditions
+(b) Customer revenue concentration analysis for FY2024-2025
+(c) Customer churn analysis and retention metrics
+(d) Contract renewal rates and pricing terms
+(e) Payment terms and collection history by customer
+(f) Service level agreements and performance metrics (Priority: High)
+
+2. (a) Customer satisfaction scores and feedback analysis
+(b) Customer acquisition costs by segment
+(c) Length of customer relationships analysis
+(d) Contract modification history for top customers
+(e) Customer credit risk assessment documentation
+(f) Analysis of customer-specific pricing agreements (Priority: Medium)
+
+3. (a) Customer profitability analysis by segment
+(b) Schedule of customer-specific discounts or rebates
+(c) Analysis of customer contract renewal patterns
+(d) Documentation of customer-specific service requirements
+(e) Customer reference checks and satisfaction surveys
+(f) Analysis of customer dependency risks (Priority: Medium)
+
+4. (a) Customer geographic distribution analysis
+(b) Contract compliance monitoring procedures
+(c) Analysis of customer payment behaviors
+(d) Documentation of customer complaints/disputes
+(e) Customer concentration risk assessment
+(f) Analysis of customer growth patterns
+**REVENUE RECOGNITION & CONTROLS** (Priority: Medium)
+
+1. (a) Detailed revenue recognition policies and procedures
+(b) Documentation of revenue recognition criteria by product
+(c) Analysis of multi-element arrangement accounting
+(d) Revenue recognition control documentation
+(e) Schedule of revenue recognition timing differences
+(f) Supporting documentation for revenue recognition decisions (Priority: High)
+
+2. (a) Revenue cycle process documentation and flowcharts
+(b) Revenue-related internal control testing results
+(c) Documentation of revenue recognition automation tools
+(d) Analysis of contract terms affecting revenue timing
+(e) Schedule of revenue recognition exceptions
+(f) Revenue recognition compliance certification (Priority: High)
+
+3. (a) Revenue recognition audit trail documentation
+(b) Analysis of contract modification impacts
+(c) Documentation of revenue recognition reviews
+(d) Schedule of revenue recognition adjustments
+(e) Supporting documentation for timing decisions
+(f) Revenue recognition quality control procedures (Priority: High)
+
+4. (a) Revenue recognition training materials and logs
+(b) Documentation of system controls for revenue
+(c) Analysis of revenue recognition risks
+(d) Schedule of revenue recognition monitoring procedures
+(e) Supporting documentation for complex transactions
+(f) Revenue recognition policy updates and changes (Priority: High)

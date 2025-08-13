@@ -1,0 +1,102 @@
+#,Info request,Priority,Status,EY remarks,Management remarks
+2,"Monthly or quarterly management accounts (MIS) prepared by the management including detailed variance analysis, KPIs as tracked by the Management, operational statics of the Group for the historical period. Also provide us reconciliation between the MIS and consolidated financial statements.",High,,,
+3,"(a) Company's legal entity structure as at the latest balance sheet date
+(b) Shareholding pattern of the Company indicating names of the shareholders and their respective holding (on reported and fully dilutive basis) as at latest balance sheet date including copies of all shareholders agreements entered till date, if any",Low,,,
+4,"(a) Describe the accounting polices including details of changes in accounting policies over the historical period.
+(b) Minutes of meetings of the board of directors, audit committee and general shareholders meetings for all entities.
+(c) Internal audit reports / presentations.
+(d) Audit committee presentation made by auditors, management letter and management representation letter issued by auditors",Medium,,,
+5,"Provide details of specific restructuring activities undertaken along with financial impact including description of initiative, total cost in historical periods, and planned waterfall of cost savings on quarterly basis. Also provide underlying backups including employee level listing of roles rationalized, reduction in spends and rationale for the same.",High,,,
+B,Profit and loss,,,,
+I,,,,,
+6,"Details along with backup and transaction master of monthly revenue, ARR/MRR, marketing spends, take rate %, gross margins and KPIs in the historical period by: 
+(a) By customer and type (advertiser, agencies or publishers)
+(b) By billing type (minimum fee or % of take rate)
+(c) By customer geo
+(d) By industry verticals (Manufacturing, healthcare, life science and insurance, technology)
+(e) Billing type (T&M, Fixed)
+(f) Type of revenue (fixed vs variable)
+",High,,,
+7,"Provide copies of all SOWs for top 10 customers that are relevant for the revenue earned during the historical period. Also, provide summary of key commercial terms of agreements.
+",High,,,
+8,"(a) Please provide by customer details of volume discount / rebates / cash discount agreed with customers including details of cost recorded during the historical period
+(b) Provide listing of credit notes issued along with reasons including reversals, rebilling, discounts etc. for the historical period.
+(c) Provide the historical rate card and commercials by customer along with discounts/incentives offered, historical price revisions, escalations etc.",High,,,
+II,Employee costs,,,,
+9,"(a) Provide the quarterly breakdown of employee cost by nature for the historical period.
+(b) Monthly employee cost and payroll registers by employee and contractors (with following tagging: fixed and variable cost components, headcount, department (Delivery, G&A, S&M), sub-departments and grade/band separately for – (i) On-roll employees, (ii) Contract employees, with employee geo.
+Provide reconciliation of such schedule to employee cost recorded in MIS and financial statements. 
+(c) List of key management personnel and employees of the Companies, indicating their name, designation, date of joining and annual CTC and along with related employee contracts. Also, provide details of any special terms like golden parachutes, non-compete etc. with any of the KMPs
+(d) Provide details of current sales force and commission structure, bonuses and other incentive programs for sales and marketing staff during the historical period
+(e) Provide basis of employee cost capitalization and tagging of employees in the register which is capitalized during historical period (if any).
+(f) List of key vacant positions as at date along with estimated budget.",High,,,"
+"
+10,"(a) Details of increments and performance incentives/bonus paid in the historical period by function and by grade along with detailed workings.
+(b) Also provide a note on the policy for performance bonus provisioning, timing of payment, material changes in the policy or cost in the recent periods.",High,,,
+11,"Provide details of employee benefits (retirement benefits, vacation accruals etc.,) and valuation reports/underlying calculations during the historical period.",Medium,,,
+12,"(a) Employee handbook/manual detailing various benefits including various types of leave and other employee policies
+(b) Sample employment contracts for at least five employee across different designations and functions.
+(c) Details of ESOP scheme along with workings, if any",High,,,
+13,"Employee attrition details (opening, addition, left, closing)",Medium,,,
+III,Other expenses,,,,
+14,"Provide nature wise and vendor level details of non-employee costs for the historical period including:
+a) Colocation facility rent and third party network services
+b) Contractor costs
+c) Consulting costs
+d) Software subscription",High,,,
+15,Detailed schedule of legal and professional fees for the historical period at consolidated level by party along with nature of services provided for the historical period.,Medium,,,
+16,"Schedule and contracts of facility, assets and other significant leases showing (i) lease inception date, term, (ii) payment terms, (iii) renewal and other options, (iv) rent cost per month (v) escalations, (vi) lessor name, (viii) Lock in details (ix) any other related or unusual terms and conditions.",Medium,,,
+17,"(a) A brief note on the sales and marketing structure including details of current sales team, commission/bonus structure and other incentive programs for sales & marketing staff
+(b) Provide detailed breakdown on marketing spends by vendor (email and digital, paid media, PR and social) along with funnel details.",High,,,
+18,"Break down of other key general and administrative expenses (office expenses, insurance, balance w/off, marketing and public relations, communication expenses & repairs / maintenance) by nature / vendor",High,,,
+19,Listing and agreements for the key outsourced vendors along with nature of services obtained from these vendors.,Medium,,,
+20,Break down of finance costs by nature and facility for the historical period,Medium,,,
+C,Balance sheet,,,,
+IV,Fixed assets,,,,
+21,"(a) Detailed fixed asset register (tangible and intangible) including details of asset, gross value, accumulated depreciation, net value, location of the asset, etc.
+(b) Also provide schedule of fixed assets by asset type with opening value, additions, deletions and depreciation for historical period.",Medium,,,
+22,Capital expenditure incurred during the historical period bi-furcated into growth capex and maintenance capex,Medium,,,
+23,"a) Provide accounting treatment for capitalized employee costs and other expenses along with basis of capitalization. Please share underlying feasibility reports for developed products.
+b) Also share clarification on reclassification of capitalized costs to income statement from CY24 onwards.",High,,,
+VI,"Trade receivables, unbilled revenue ",,,,
+24,"(a) Customer-wise breakdown of accounts receivable along with agreed credit term as at the end of the historical periods (0-30 days, 31-60 days, 61-120 days, 120-180, 180-365, greater than 365 days) at Dec22, Dec23 and Dec24 ( with original currency billing and exchange rate). Also, provide reason for aged balances.
+(b) Customer level breakdown of unbilled receivable along with ageing and subsequent invoicing details at Dec22, Dec23 and Dec24.
+(c) Provide mapping of subsequent collections of outstanding receivables including unbilled receivables at latest balance sheet date in bank statements.",High,,,
+25,"(b) Provide details of subsequent collections by customer for accounts receivable at Dec23 and Dec24 (in the same buckets as ageing).
+(c) Provide details of any disputed / doubtful receivables. Further, provide details of refunds / credit notes issued during the historical period.",High,,,
+26,Schedule of bad and doubtful debts and provisions workings for the historical period by customer including reasons for write off/provisioning and reversal of provision if any. ,High,,,
+VII,Other assets,,,,
+27,"(a) Nature and vendor level breakdown of advances and deposits (incl. EMD)  along with key terms of advance/deposit and details of subsequent utilisation as at the end of historical periods
+(b) Provide by vendor details of prepaid expenses by nature of expense along with details like contract start date, end date, amount etc. as at the end of the historical period.",High,,,
+28,Schedule of other assets for the historical period,Medium,,,
+VIII,Cash and bank balances,,,,
+29,"(a) Bank reconciliation statements for all the bank accounts including bank statements . 
+(b) Also, comment on material unusual reconciling items along with subsequent clearance traced to the bank statements.",High,,,
+30,Investment statement reflecting the market value of the investments. Provide details of any other investments held.,High,,,
+31,Details of restricted cash and bank guarantee if any,Medium,,,
+IX,Trade payables and other liabilities,,,,
+32,"(a) Party wise ageing (0-30 days, 31-60 days, 61-120 days, 120-180, 180-365, greater than 365 days) and agreed credit terms with accounts payable along with the nature of such creditor as at the end of the historical period. Provide reason for aged balances and identify disputed payables, if any 
+(b) Provide the details of capex creditors along with ageing as at the end of the historical periods",High,,,
+33,"Waterfall / schedule of deferred revenue / advance received from customer with the following details by customer along with ageing at Dec22, Dec23 and Dec24.
+- Order value
+- Duration of the agreement/ PO/ contract
+- Amount received
+- Revenue recognized in the financials on a monthly basis
+- Balance categorized as deferred revenue
+- Subsequent booking 
+Details of deferred revenue which has not been collected and included in receivables",High,,,
+34,"Schedule of payroll liabilities as at historical balance sheet dates along with movement schedule in case of key items like bonus, commission etc.",High,,,
+35,"(a) Provide nature wise breakdown and ageing of duties and taxes payable (including provident fund) as at the end of the historical period. Also, provide details of subsequent payments of such liabilities
+(b) Listing of outstanding expenses by nature as at the end of the historical period ends with supporting workings",High,,,
+36,"(a) Provide yearly movement in gratuity, leave encashment provisions and employee cost related accruals with (i) opening balance, (ii) addition during the year, (iii) reversal of provision, and (iv) closing balance for following liabilities:
+   - Accrued vacation
+   - Accrued bonuses and commission
+(b) Provide employee wise details of provision for salaries and wages expenses as at the end of the historical period along with ageing and nature wise breakdown (i.e. salary, bonus etc.)",High,,,
+X,"Borrowings, related party transactions and contingent liabilities",,,,
+37,"a) Provide details of all secured/unsecured borrowings including share holders loans, arrangement fees etc. as at balance sheet dates along with copies of debt agreements (with amendments) and repayment schedule in respect of debt outstanding.  Provide copies of outstanding loan agreements.
+b) Provide confirmations for loan balances and reconciliation of the book balances to confirmed balances.
+(c) Provide details of instances of default in repayment of loans and interest in the historical period.",High,,,
+38,List of related party transactions during the historical period and balances due to/ from related parties as at the latest balance sheet along with Copies of agreements entered into with related parties,Medium,,,
+39,"Detailed list of contingent liabilities and details of any other guarantee given. 
+Further, provide details of any personal guarantees/other securities given by promoters to lender",High,,,
+40,"List of significant claims, pending or threatened litigation by or against the company, along with the management view on the likely outcome of the cases/claims and the financial implications of the same.",High,,,

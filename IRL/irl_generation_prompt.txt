@@ -1,0 +1,216 @@
+COMPREHENSIVE INFORMATION REQUIREMENTS LIST GENERATION
+=====================================================
+
+TASK: Transform due diligence procedures into extremely detailed, actionable Information Requirements List matching Big 4 institutional standards.
+
+MANDATORY REQUIREMENTS - NO EXCEPTIONS:
+1. Generate EXACTLY 35-40 numbered information requests (1, 2, 3... up to 40)
+2. Each request MUST have 4-6 detailed sub-points using (a), (b), (c), (d), (e), (f) format
+3. Follow EXACT structure: **SECTION A: Financial statements, MIS and other general information**, then **SECTION B: Profit and loss**, then **SECTION C: Balance sheet**
+4. Include subsections: I, II, III, IV, V, VI, VII, VIII, IX, X under main sections
+5. Every quantitative request MUST specify "in Excel format"
+6. Include aging analysis (0-30, 31-60, 61-120, 120-180, 180-365, >365 days) for receivables/payables
+7. Add reconciliation requirements between different data sources
+8. Use "for the historical period" in every request
+9. Write LONG, detailed requests - minimum 100-150 words per numbered item
+10. NO explanatory text - ONLY the structured IRL format
+
+EXAMPLE OF REQUIRED DETAIL LEVEL:
+"Monthly or quarterly management accounts (MIS) prepared by the management including detailed variance analysis, KPIs as tracked by the Management, operational statistics of the Group for the historical period. Also provide us reconciliation between the MIS and consolidated financial statements."
+
+MANDATORY STRUCTURE:
+
+**SECTION A: Financial statements, MIS and other general information**
+
+I. General financial information
+   1. Audited financial statements for the historical period including:
+      - Consolidated and standalone balance sheet, profit & loss statement, and cash flow statement in Excel format with detailed line item breakdowns
+      - Complete notes to accounts with schedules, accounting policies, and detailed explanations for all material items
+      - Independent auditor's report including management letter, internal control observations, and any qualifications or emphasis of matter
+      - Board resolutions approving the financial statements along with minutes of audit committee meetings discussing the financial results
+      - Reconciliation between provisional financial statements and final audited statements with explanations for all adjustments
+
+   2. Monthly or quarterly management accounts (MIS) prepared by the management including:
+      - Detailed P&L, balance sheet, and cash flow for each month/quarter of the historical period in Excel format
+      - Budget versus actual analysis with detailed variance explanations for all material deviations (>5% or significant absolute amounts)
+      - Flash reports, CEO dashboards, and management presentations used for internal decision making
+      - Key performance indicators (KPIs) as tracked by management including operational metrics, efficiency ratios, and business-specific parameters
+      - Reconciliation between the MIS and consolidated financial statements with explanations for all differences
+
+   3. Statutory compliance documentation and regulatory filings including:
+      - Annual returns filed with Registrar of Companies (ROC) along with all attachments and schedules
+      - Income tax returns, advance tax payment details, and tax assessment orders for the historical period
+      - GST/VAT returns, reconciliation statements, and any notices or correspondence with tax authorities
+      - Statutory compliance certificates from auditors covering all applicable laws and regulations
+      - Details of any non-compliance, penalties, notices, or ongoing investigations by regulatory authorities
+
+**SECTION B: Profit and loss analysis**
+
+II. Revenue analysis
+   4. Detailed revenue analysis for the historical period including:
+      - Month-wise and product/service-wise revenue breakdown in Excel format with volume and value bifurcation
+      - Customer-wise revenue analysis showing top 20 customers, their contribution percentage, and year-on-year growth
+      - Geography-wise and segment-wise revenue split with profitability analysis for each segment
+      - New customer additions, customer churn analysis, and revenue retention metrics
+      - Revenue recognition policy document and period-end cut-off procedures followed
+
+   5. Customer contracts and commercial terms including:
+      - Copies of contracts/agreements with top 20 customers covering 80% of revenues
+      - Standard terms and conditions, pricing mechanisms, payment terms, and credit periods offered
+      - Details of any volume discounts, rebates, incentives, or special pricing arrangements
+      - Customer satisfaction scores, complaints/disputes log, and resolution tracking
+      - Details of any long-term contracts, take-or-pay arrangements, or minimum purchase commitments
+
+III. Cost analysis
+   6. Detailed employee cost analysis including:
+      - Month-wise employee cost breakdown by department, function, grade, and location for the historical period
+      - Headcount movement analysis with joiners, leavers, and average employee cost by category
+      - Salary structure showing fixed pay, variable pay, allowances, and benefits for each grade
+      - Details of annual increments, bonus payouts, sales incentives, and any special compensation
+      - Reconciliation between payroll records and employee costs booked in financial statements
+
+   7. Material and operating cost analysis including:
+      - Raw material consumption statement with quantity and value details for major items
+      - Vendor-wise purchase analysis for top suppliers covering 80% of purchases
+      - Month-wise breakdown of manufacturing costs, utilities, consumables, and stores
+      - Cost per unit analysis with trends and comparison against budgets/standards
+      - Details of any cost reduction initiatives, efficiency improvements, or procurement savings
+
+   8. Other operating expenses including:
+      - Category-wise analysis of selling, general, and administrative expenses for the historical period
+      - Details of rent expenses with copies of lease agreements and future escalation clauses
+      - Professional fees breakdown showing legal, audit, consulting, and other advisory costs
+      - Travel, marketing, IT, and communication expenses with policy documents
+      - Any exceptional, non-recurring, or one-time expenses with detailed explanations
+
+**SECTION C: Balance sheet analysis**
+
+IV. Fixed assets and capital expenditure
+   9. Fixed asset register and movement schedule including:
+      - Complete fixed asset register in Excel showing asset description, location, cost, accumulated depreciation, and WDV
+      - Asset-wise additions, deletions, and transfers during the historical period with supporting documents
+      - Depreciation policy, useful lives, and methods adopted for each asset category
+      - Physical verification reports, insurance coverage details, and asset tagging status
+      - Reconciliation between fixed asset register and general ledger balances
+
+   10. Capital expenditure analysis including:
+       - Project-wise capex details with approved budgets, actual spending, and completion status
+       - Board approvals, capital budgeting analysis, and ROI calculations for major projects
+       - Work-in-progress ageing analysis with expected completion timelines
+       - Vendor contracts for major capital purchases and payment terms
+       - Post-implementation reviews for completed projects showing actual vs projected benefits
+
+V. Working capital components
+   11. Trade receivables analysis including:
+       - Customer-wise ageing analysis as of each month-end/quarter-end for the historical period
+       - Detailed ageing buckets (0-30, 31-60, 61-90, 91-180, >180 days) with overdue reasons
+       - Provision for doubtful debts policy, calculation methodology, and write-off history
+       - Credit control procedures, collection efforts tracking, and recovery performance metrics
+       - Details of any factoring, bill discounting, or receivables financing arrangements
+
+   12. Inventory analysis including:
+       - Item-wise inventory ageing report showing raw materials, WIP, finished goods, and stores
+       - Inventory valuation methodology, standard costing details, and variance analysis
+       - Physical stock verification reports, discrepancy analysis, and adjustment entries
+       - Slow-moving and obsolete inventory identification with provision policy
+       - Inventory holding days trend, turnover ratios, and comparison with industry benchmarks
+
+   13. Trade payables and current liabilities including:
+       - Vendor-wise ageing analysis with payment terms and overdue details
+       - Reconciliation of vendor statements with book balances for major suppliers
+       - Details of any payment arrangements, LCs, or supplier financing programs
+       - Statutory dues position including PF, ESI, TDS, GST with payment evidence
+       - Provision details for expenses, employee benefits, warranties with calculation basis
+
+VI. Cash and debt analysis
+   14. Cash and bank balances including:
+       - Bank-wise breakup of balances with account types (current, deposit, escrow)
+       - Monthly bank reconciliation statements for all bank accounts
+       - Details of any restrictions, liens, or margin money against bank guarantees
+       - Foreign currency account details with hedge positions and MTM calculations
+       - Cash flow forecasts for next 12 months with underlying assumptions
+
+   15. Debt and borrowing analysis including:
+       - Loan-wise details showing sanctioned amount, outstanding, interest rate, and repayment schedule
+       - Security documents, mortgage deeds, hypothecation agreements, and guarantee details
+       - Compliance certificates for financial covenants with calculation workings
+       - Details of any restructuring, moratorium, or special dispensations received
+       - Unutilized credit limits, working capital utilization trends, and renewal status
+
+VII. Other balance sheet items
+   16. Investments and financial assets including:
+       - Details of all investments in subsidiaries, associates, JVs with shareholding pattern
+       - Marketable securities portfolio with cost, market value, and unrealized gains/losses
+       - Inter-corporate deposits, loans given with terms, interest rates, and repayment status
+       - Board resolutions and investment committee approvals for all investments
+       - Impairment assessment and fair valuation reports where applicable
+
+   17. Related party transactions including:
+       - Complete list of related parties as per applicable accounting standards
+       - Transaction-wise details showing nature, value, terms, and business rationale
+       - Outstanding balances ageing and settlement history for each related party
+       - Transfer pricing study reports and benchmarking analysis
+       - Board and audit committee approvals for all related party transactions
+
+   18. Contingent liabilities and commitments including:
+       - Detailed list of all pending litigations with case details, claim amounts, and legal opinions
+       - Bank guarantees, letters of credit issued with beneficiary details and expiry dates
+       - Corporate guarantees given on behalf of group companies or third parties
+       - Capital and other commitments with payment schedules and funding plans
+       - Actuarial valuation reports for employee benefit obligations
+
+PRIORITY ASSIGNMENT GUIDELINES:
+- HIGH (70%): Financial statements, MIS, cash flows, receivables, revenue details, debt analysis, bank reconciliations
+- MEDIUM (25%): Operational analysis, cost breakdowns, fixed assets, working capital components
+- LOW (5%): Supporting documentation, process documents, policies
+
+CRITICAL FORMATTING REQUIREMENTS:
+1. **Sub-point Structure**: Each main request MUST have 4-6 detailed sub-points with specific requirements (use (a), (b), (c), (d), (e), (f) format)
+2. **Excel Format**: ALWAYS specify "in Excel format" for all quantitative data, schedules, and analyses
+3. **Time References**: Include "for the historical period" or specific date references in every request
+4. **Reconciliation Requirements**: Request reconciliations between different data sources (MIS vs financials, books vs bank statements, etc.)
+5. **Supporting Documentation**: Ask for supporting documents, approvals, contracts, and detailed explanations
+6. **Professional Language**: Use exact Big 4 due diligence terminology and phrasing
+7. **Specific Breakdowns**: Be extremely specific about formats, ageing buckets, variance analysis, and detailed breakdowns required
+8. **Priority Assignment**: Assign High/Medium/Low priority based on financial materiality and due diligence importance
+
+OUTPUT FORMAT EXAMPLES:
+
+1. "(a) Excel copies of standalone and consolidated financial statements (profit and loss statement, balance sheet and cash flow statements), linked to the detailed trial balances.
+(b) Copies of standalone and consolidated audited financial statements along with audit report for the historical period.
+(c) Board resolutions approving the financial statements along with minutes of audit committee meetings.
+(d) Reconciliation between provisional financial statements and final audited statements with explanations."
+
+24. "(a) Customer-wise breakdown of accounts receivable along with agreed credit term as at the end of the historical periods (0-30 days, 31-60 days, 61-120 days, 120-180, 180-365, greater than 365 days) at Dec22, Dec23 and Dec24 (with original currency billing and exchange rate). Also, provide reason for aged balances.
+(b) Customer level breakdown of unbilled receivable along with ageing and subsequent invoicing details at Dec22, Dec23 and Dec24.
+(c) Provide mapping of subsequent collections of outstanding receivables including unbilled receivables at latest balance sheet date in bank statements."
+
+9. "(a) Provide the quarterly breakdown of employee cost by nature for the historical period.
+(b) Monthly employee cost and payroll registers by employee and contractors (with following tagging: fixed and variable cost components, headcount, department (Delivery, G&A, S&M), sub-departments and grade/band separately for – (i) On-roll employees, (ii) Contract employees, with employee geo.
+Provide reconciliation of such schedule to employee cost recorded in MIS and financial statements.
+(c) List of key management personnel and employees of the Companies, indicating their name, designation, date of joining and annual CTC and along with related employee contracts. Also, provide details of any special terms like golden parachutes, non-compete etc. with any of the KMPs
+(d) Provide details of current sales force and commission structure, bonuses and other incentive programs for sales and marketing staff during the historical period
+(e) Provide basis of employee cost capitalization and tagging of employees in the register which is capitalized during historical period (if any).
+(f) List of key vacant positions as at date along with estimated budget."
+
+MANDATORY OUTPUT FORMAT - START IMMEDIATELY WITH THIS STRUCTURE:
+
+**SECTION A: Financial statements, MIS and other general information**
+
+I. Financial statements
+
+1. (a) Excel copies of standalone and consolidated financial statements (profit and loss statement, balance sheet and cash flow statements), linked to the detailed trial balances for the historical period.
+(b) Copies of standalone and consolidated audited financial statements along with audit report for the historical period with complete notes to accounts.
+(c) Board resolutions approving the financial statements along with minutes of audit committee meetings discussing financial results.
+(d) Reconciliation between provisional financial statements and final audited statements with explanations for all adjustments.
+(e) Independent auditor's management letter, internal control observations, and any qualifications or emphasis of matter.
+
+2. (a) Monthly or quarterly management accounts (MIS) prepared by the management including detailed variance analysis, KPIs as tracked by the Management, operational statistics of the Group for the historical period in Excel format.
+(b) Budget versus actual analysis with detailed variance explanations for all material deviations exceeding 5% or significant absolute amounts.
+(c) Flash reports, CEO dashboards, and management presentations used for internal decision making during the historical period.
+(d) Key performance indicators (KPIs) as tracked by management including operational metrics, efficiency ratios, and business-specific parameters.
+(e) Reconciliation between the MIS and consolidated financial statements with explanations for all differences.
+
+[CONTINUE THIS EXACT FORMAT FOR ALL 35-40 REQUESTS - NO SHORTCUTS, NO SUMMARIES]
+
+Generate EXACTLY this structure with complete detailed requests. MINIMUM 10,000 words total output required.

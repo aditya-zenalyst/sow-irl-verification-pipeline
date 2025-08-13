@@ -1,0 +1,303 @@
+INFORMATION REQUIREMENTS LIST
+==================================================
+Company: Review fee inc
+Generated: August 05, 2025
+
+Historical period: FY2014-2015, FY2013-2014
+Balance sheet date: March 31, 2015
+Information on consolidated basis wherever applicable
+
+==================================================
+
+Historical period: 2014-2025, 2014-2025
+
+Balance sheet date: 
+
+Information on consolidated basis wherever applicable
+
+**REVENUE ANALYSIS**
+
+1. (a) Detailed breakdown of recurring review fee revenue streams by client segment for FY2014-2025
+(b) Monthly revenue reports, client contracts, and pricing schedules
+(c) Analysis of revenue stability and growth patterns by segment
+(d) Reconciliation with general ledger and contract terms
+(e) Excel format with monthly trending and YoY comparisons
+(f) Submit within 5 business days with historical data back to 2014 (Priority: High)
+
+2. (a) Analysis of fee recognition policies and timing adjustments
+(b) Revenue recognition policy documents and accounting manuals
+(c) Review of revenue booking methodology and compliance
+(d) Sample testing of major client contracts and revenue bookings
+(e) Detailed memo with supporting calculations
+(f) Complete analysis within 10 business days (Priority: High)
+
+**INCOME STATEMENT ANALYSIS**
+
+3. (a) Client concentration analysis showing top 20 clients by revenue
+(b) Client database, contract terms, and historical retention rates
+(c) Assessment of client dependencies and relationship tenure
+(d) Review of client profitability metrics
+(e) Summary dashboard with drill-down capabilities
+(f) Deliver within 7 business days (Priority: Medium)
+
+4. (a) Margin analysis by service line for FY2014-2025
+(b) Detailed P&L statements and cost allocation records
+(c) Computation of contribution margins and cost drivers
+(d) Benchmark against industry standards
+(e) Standardized template with variance analysis
+(f) Submit within 8 business days (Priority: High)
+
+**WORKING CAPITAL MANAGEMENT**
+
+5. (a) Staff cost analysis including productivity metrics
+(b) Payroll records, headcount data, and efficiency KPIs
+(c) Analysis of cost per employee and revenue generation
+(d) Comparison with industry standards
+(e) Excel model with trending and forecasts
+(f) Complete within 6 business days (Priority: High)
+
+6. (a) Analysis of working capital components and trends
+(b) Balance sheet items, aging reports, and cash flow statements
+(c) Calculation of working capital ratios and cycles
+(d) Review of historical patterns and seasonality
+(e) Dynamic working capital model
+(f) Deliver within 7 business days (Priority: High)
+
+**CASH FLOW ANALYSIS**
+
+7. (a) Review of accounts receivable management
+(b) AR aging reports, collection policies, and write-off history
+(c) Analysis of collection efficiency and payment terms
+(d) Assessment of credit risk management
+(e) Summary report with aging analysis
+(f) Complete within 5 business days (Priority: Medium)
+
+8. (a) Operating cash flow analysis FY2014-2025
+(b) Cash flow statements, bank statements, and forecasts
+(c) Analysis of cash conversion cycle and efficiency
+(d) Validation of cash flow sustainability
+(e) Detailed cash flow model with projections
+(f) Submit within 6 business days (Priority: High)
+
+**BALANCE SHEET REVIEW**
+
+9. (a) Review of dividend capacity and capital allocation
+(b) Historical dividend payments, capital structure documents
+(c) Analysis of free cash flow coverage and sustainability
+(d) Assessment of future payout capacity
+(e) Financial model with scenario analysis
+(f) Complete within 8 business days (Priority: High)
+
+10. (a) Detailed analysis of Review Fee Inc's asset quality metrics for FY2014-2025
+(b) Quarterly balance sheets, asset classification reports, and valuation statements
+(c) Trend analysis of asset quality ratios including NPL ratios and coverage ratios
+(d) Independent verification of asset classifications and provisioning adequacy
+(e) Excel-based analysis with supporting documentation and ratio calculations
+(f) Complete analysis within 2 weeks for management review (Priority: High)
+
+**CAPITAL STRUCTURE & DEBT ANALYSIS**
+
+11. (a) Comprehensive review of liability structure and maturity profile
+(b) Detailed debt schedules, maturity calendars, and liability classification reports
+(c) Analysis of liability concentration, duration matching, and refinancing risks
+(d) Cross-validation with creditor statements and loan agreements
+(e) Maturity ladder analysis in standardized template with graphical representations
+(f) Submit draft findings within 10 business days (Priority: Medium)
+
+12. (a) Assessment of off-balance sheet exposures and contingent liabilities
+(b) Documentation of guarantees, commitments, and potential obligations
+(c) Risk assessment methodology for each exposure category
+(d) Verification against legal agreements and third-party confirmations
+(e) Summary report with risk matrices and exposure quantification
+(f) Complete review by month-end (Priority: Low)
+
+**GENERAL OVERVIEW & FINANCIAL REPORTING**
+
+13. (a) Review of Review Fee Inc's debt covenant compliance FY2014-2025
+(b) Loan agreements, covenant certificates, and compliance reports
+(c) Historical covenant calculation methodology and stress testing
+(d) Independent recalculation of covenant metrics
+(e) Covenant compliance dashboard with forward-looking projections
+(f) Deliver analysis within 15 business days (Priority: High)
+
+14. (a) Analysis of weighted average cost of capital components
+(b) Capital structure details, cost of debt data, and equity market information
+(c) WACC calculation methodology and peer comparison analysis
+(d) Validation of inputs and assumptions with market data
+(e) Detailed WACC model with sensitivity analysis
+(f) Complete analysis within 3 weeks (Priority: Medium)
+
+**ACCOUNTING POLICIES & ESTIMATES**
+
+15. (a) Review of debt servicing capacity and coverage ratios
+(b) Historical cash flow statements, debt service schedules, and projections
+(c) Coverage ratio analysis and stress testing methodology
+(d) Verification of cash flow assumptions and debt obligations
+(e) Coverage ratio analysis report with forward-looking scenarios
+(f) Submit findings within 20 business days (Priority: High)
+
+16. (a) Evaluation of Review Fee Inc's reporting systems and internal controls
+(b) System documentation, control frameworks, and audit reports
+(c) Assessment methodology for control effectiveness
+(d) Testing of key control points and reporting processes
+(e) Control assessment matrix with recommendations
+(f) Complete evaluation within 4 weeks (Priority: High)
+
+**COMPENSATION, PAYROLL & BENEFITS**
+
+17. (a) Review of management reporting quality and timeliness
+(b) Monthly management reports, KPI dashboards, and reporting calendars
+(c) Analysis of reporting accuracy, completeness, and relevance
+(d) Comparison with industry best practices
+(e) Gap analysis report with improvement recommendations
+(f) Deliver findings within 3 weeks (Priority: Medium)
+
+18. (a) Assessment of revenue recognition policies and procedures
+(b) Revenue recognition documentation, contract samples, and accounting policies
+(c) Review methodology for compliance with accounting standards
+(d) Testing of revenue recognition treatments across service lines
+(e) Detailed policy assessment report with recommendations
+(f) Complete review within 25 business days (Priority: High)
+
+**RELATED PARTY TRANSACTIONS**
+
+19. (a) Evaluation of significant accounting estimates and judgments
+(b) Documentation of key estimates, assumptions, and methodologies
+(c) Analysis of estimation processes and historical accuracy
+(d) Validation against industry practices and accounting standards
+(e) Summary report of key findings and recommendations
+(f) Submit assessment within 15 business days (Priority: Medium)
+
+20. (a) Detailed analysis of Review fee inc's compensation structure across all employee levels for FY2014-2025
+(b) Payroll records, salary bands, job grades, and compensation policies
+(c) Comparative analysis of compensation changes by employee category and department
+(d) Verification of alignment with industry benchmarks and internal policies
+(e) Excel spreadsheet with year-over-year trending and variance analysis
+(f) Complete analysis within 14 business days (Priority: High)
+
+**TAX MATTERS**
+
+21. (a) Review of executive compensation packages including bonuses, stock options, and benefits
+(b) Executive employment contracts, board minutes approving compensation, and incentive plan documents
+(c) Analysis of performance metrics linked to variable compensation
+(d) Verification of compliance with corporate governance guidelines
+(e) Summary report with supporting calculations in Excel
+(f) Deliver findings within 10 business days (Priority: High)
+
+22. (a) Assessment of pension obligations and benefit programs for FY2014-2025
+(b) Pension plan documents, actuarial reports, and benefit plan descriptions
+(c) Evaluation of funding status and future liability projections
+(d) Review of actuarial assumptions and methodology
+(e) Detailed report with actuarial calculations and risk assessment
+(f) Complete review within 15 business days (Priority: Low)
+
+**CONTINGENT LIABILITIES & COMMITMENTS**
+
+23. (a) Comprehensive list of all related party transactions and relationships from FY2014-2025
+(b) Contracts, agreements, and board approvals for related party dealings
+(c) Analysis of transaction pricing and terms compared to market standards
+(d) Verification of proper authorization and documentation
+(e) Database of all transactions with supporting documentation
+(f) Submit findings within 12 business days (Priority: High)
+
+24. (a) Review of transfer pricing policies and intercompany settlements
+(b) Transfer pricing studies, agreements, and settlement records
+(c) Assessment of compliance with arms-length principles
+(d) Validation of pricing methodologies and calculations
+(e) Detailed report with pricing analysis and risk assessment
+(f) Complete review within 10 business days (Priority: Medium)
+
+**OPERATIONAL ANALYSIS**
+
+25. (a) Analysis of impact of related party transactions on profitability
+(b) Financial statements, margin analysis, and profit allocation documents
+(c) Evaluation of financial impact and business rationale
+(d) Review of disclosure adequacy in financial statements
+(e) Excel model showing impact analysis and trends
+(f) Deliver analysis within 8 business days (Priority: High)
+
+26. (a) Review of tax compliance status and effective tax rate analysis for FY2014-2025
+(b) Tax returns, correspondence with authorities, and compliance certificates
+(c) Analysis of effective tax rate trends and variations
+(d) Verification of tax positions and calculations
+(e) Comprehensive report with tax rate reconciliation
+(f) Complete within 15 business days (Priority: High)
+
+**RISK ASSESSMENT**
+
+27. (a) Assessment of deferred tax positions and tax planning strategies
+(b) Tax provision calculations, planning documents, and supporting schedules
+(c) Evaluation of temporary differences and recognition criteria
+(d) Review of tax planning effectiveness and risks
+(e) Detailed analysis with supporting calculations
+(f) Submit findings within 12 business days (Priority: Medium)
+
+28. (a) Review of tax dispute history and jurisdiction risks
+(b) Documentation of tax disputes, settlements, and jurisdiction requirements
+(c) Analysis of exposure in different tax jurisdictions
+(d) Assessment of potential tax risks and mitigation strategies
+(e) Risk assessment report with quantified exposures
+(f) Complete review within 10 business days (Priority: Medium)
+
+29. (a) Comprehensive review of litigation exposure and regulatory compliance risks
+(b) Legal correspondence, regulatory filings, and compliance reports
+(c) Assessment of potential financial impact of ongoing litigation
+(d) Evaluation of compliance with regulatory requirements
+(e) Summary report with risk quantification
+(f) Deliver findings within 14 business days (Priority: High)
+
+30. (a) Analysis of off-balance sheet commitments and guarantee obligations
+(b) Contracts, guarantee agreements, and commitment schedules
+(c) Evaluation of financial impact and probability assessment
+(d) Review of disclosure adequacy and recognition criteria
+(e) Detailed listing with financial exposure calculations
+(f) Complete analysis within 10 business days (Priority: High)
+
+31. (a) Review of insurance coverage and contingency provisions
+(b) Insurance policies, claims history, and provision calculations
+(c) Assessment of coverage adequacy and risk exposure
+(d) Validation of provision methodology and assumptions
+(e) Gap analysis report with recommendations
+(f) Submit review within 12 business days (Priority: Medium)
+
+32. (a) Detailed analysis of Review fee inc's fee processing efficiency metrics and throughput rates
+(b) Monthly operational reports showing processing times, error rates, and fee collection success rates
+(c) Comparative analysis of processing efficiency across different fee categories and client segments
+(d) Third-party verification of processing accuracy and compliance standards
+(e) Excel spreadsheet with detailed metrics and trend analysis for past 3 years
+(f) Submit comprehensive report within 2 weeks (Priority: High)
+
+33. (a) Assessment of Review fee inc's technology infrastructure and automation capabilities
+(b) System architecture diagrams, software inventory, and integration documentation
+(c) Review of system uptime metrics, processing capacity, and scalability measures
+(d) Independent IT audit reports and system performance evaluations
+(e) Technical documentation in PDF format with supporting data tables
+(f) Complete evaluation within 3 weeks (Priority: Medium)
+
+34. (a) Analysis of customer acquisition costs and lifetime value metrics
+(b) Marketing expense reports, customer retention data, and revenue per customer
+(c) Segmentation analysis of customer profitability and service utilization
+(d) ROI calculations for different customer segments and acquisition channels
+(e) Consolidated report with visual dashboards and trend analysis
+(f) Deliver findings within 15 business days (Priority: Medium)
+
+35. (a) Comprehensive review of Review fee inc's enterprise risk management framework
+(b) Risk policies, procedures, incident reports, and mitigation strategies
+(c) Assessment of risk identification and monitoring processes
+(d) Evaluation of risk reporting and escalation procedures
+(e) Detailed risk matrix with heat maps and mitigation plans
+(f) Complete review within 4 weeks (Priority: High)
+
+36. (a) Analysis of cybersecurity measures and data protection protocols
+(b) Security policies, penetration test results, and incident response plans
+(c) Review of encryption standards and access control mechanisms
+(d) Compliance with industry security standards and regulations
+(e) Security assessment report with recommendations
+(f) Submit findings within 20 business days (Priority: Medium)
+
+37. (a) Evaluation of regulatory compliance and reporting procedures
+(b) Compliance reports, regulatory correspondence, and audit findings
+(c) Review of regulatory reporting processes and control mechanisms
+(d) Assessment of compliance training and monitoring programs
+(e) Compliance dashboard with key metrics and violation tracking
+(f) Complete evaluation within 25 business days (Priority: Medium)

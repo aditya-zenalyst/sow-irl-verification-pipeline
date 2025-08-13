@@ -1,0 +1,761 @@
+Extracted Text from PDF
+Extraction Method: False
+Extraction Date: 2025-08-07 16:20:30
+==================================================
+
+
+--- Page 1 ---
+ABC
+Corporate Identity Number (CIN) : U45153KA2014FTC287777
+Balance Sheet as at March 31, 2025
+(All amounts are in thousands of indian rupees ( ₹), unless otherwise stated)
+Equity and liabilities
+Shareholders’ funds
+Share capital 3 4,000.00                          4,000.00                                
+Reserves and surplus 4 17,839.32                        -                                          
+21,839.32                        4,000.00                                
+Non-current liabilities
+Long term provisions 5 2,777.48                          -                                          
+2,777.48                          -                                          
+Current liabilities
+Trade payables
+   Total outstanding dues of micro enterprises and small enterprises -                                    4,642.71                                
+   Total outstanding dues of creditors other than micro enterprises and small 
+enterprises692.67                             -                                          
+Other current liabilities 7 38,613.45                        271.13                                    
+Short term provisions 5 492.62                             -                                          
+39,798.74                        4,913.84                                
+Total 64,415.54                        8,913.84                                
+Assets
+Non-current assets
+Property Plant & Equipments 8 12,429.74                        -                                          
+Capital work-in-progress 8(a) -                                    4,642.71                                
+Long-term loans and advances 9 10,077.99                        -                                          
+Deferred tax assets (net) 10 1,562.54                          -                                          
+Other non-Current assets 11 11,372.72                        -                                          
+35,442.99                        4,642.71                                
+Current assets
+Trade Receivables 12 -                                    275.12                                    
+Cash and bank balances 13 14,077.38                        1,394.29                                
+Short-term loans and advances 14 16,814.57                        2,601.72                                
+30,891.95                        4,271.13                                
+Total 66,334.94                        8,913.84                                
+Summary of significant accounting policies 2.1
+The accompanying notes are an integral part of the Financial Statements (1- 28)
+As per our report of even date
+For AtD & Co For and on behalf of Board of Directors
+Firm Registration Number: 2345678987N ABC
+Chartered Accountants
+Partner: Sarath Director: B Director: A
+Membership no : 222222 DIN: 3456789 DIN: 455487
+Place: Bengaluru Place: Bengaluru Place: Bengaluru
+Date: Date: Date: 6Notes Particulars  As at  March 31, 2025  As at  March 31, 2024 
+--- Page 2 ---
+ABC
+Corporate Identity Number (CIN) : U45153KA2014FTC287777
+Statement of profit & loss for March 31, 2025
+(All amounts are in thousands of indian rupees ( ₹), unless otherwise stated)
+Revenue
+Revenue from operations 15 1,76,967.22                   -                                               
+Other income -                                  -                                               
+Total (I) 1,76,967.22                   -                                               
+Expenses
+Employee benefit expenses 16 88,929.03                      -                                               
+Depreciation expenses 8 3,494.61                        -                                               
+Other expenses 17 60,223.28                      -                                               
+Total expenses (II) 1,52,646.92                   -                                               
+Profit/(Loss) before tax  [(I)-(II)] 24,320.30                      -                                               
+Tax expenses -                                  -                                               
+(i) Current tax 8,043.52                        -                                               
+(ii) Deferred tax (1,562.54)                       -                                               
+Total tax expense 6,480.98                        -                                               
+Profit/(Loss) for the period 17,839.32                      -                                               
+Earnings per equity share  (of a face value of ₹ 10/- each) 21 4.46                                
+Basic and diluted ( in ₹)
+Summary of significant accounting policies 2
+The accompanying notes are an integral part of the Financial Statements (1- 28)
+As per our report of even date
+For AtD & Co For and on behalf of Board of Directors
+Firm Registration Number: 2345678987N ABC
+Chartered Accountants
+Partner: Sarath Director: B Director: A
+Membership no : 22222222 DIN: 3456789 DIN: 455487
+Place: Bengaluru Place:  Bengaluru Place: Bengaluru
+Date: Date: Date:  Year ended 
+March 31, 2025 Particulars Notes Period from September 16, 
+2023 to March 31, 2024 
+--- Page 3 ---
+ABC
+Corporate Identity Number (CIN) : U45153KA2014FTC287777
+Statement of cash flow for March 31, 2025
+(All amounts are in thousands of indian rupees (₹), unless otherwise stated)
+Period ended Period ended
+ March 31, 2025  March 31, 2024
+Cash flows from/(used) in operating activities
+Profit before tax 24,320.30                        -                                         
+Adjustment to reconcile profit before tax
+Depreciation and amortisation 3,494.61                          -                                         
+Operating profit before working capital changes 27,814.91                        -                                         
+Changes in operating assets and liabilites:
+(Increase)/Decrease in Trade receivable 275.12                             (275.12)                                  
+(Increase)/Decrease in Short term loans and advances (14,212.85)                      (2,601.72)                              
+(Increase)/Decrease in Long term loans and advances (10,077.99)                      -                                         
+(Increase)/Decrease in Other non-current assets (11,372.72)                      
+Increase/(Decrease) in trade payable, other liabilities and 
+provisions 37,662.38                        4,913.84                                
+Cash flows from/(used) in operations 30,088.85                        2,037.00                                
+Direct taxes paid (8,043.52)                        -                                         
+Net cash utilized in operating activities (A) 22,045.33                        2,037.00                                
+Cash flows from/(used) in investing activities
+Purchase of property, plant and equipment including intangible 
+assets(11,281.64)                                                    (4,642.71)
+Net cash used in investing activities (B) (11,281.64)                      (4,642.71)                              
+Cash flows from/(used) in financing activities
+Proceeds from issue of share capital -                                   4,000.00                                
+Net cash flows utilized in financing activities (C ) -                                   4,000.00                                
+Net increase in cash and cash equivalents (A+B+C) 10,763.69                        1,394.29                                
+Cash and cash equivalents at the beginning of the period 1,394.29                          -                                         
+Cash and cash equivalents at the end of the year 12,157.98                        1,394.29                                
+Components of cash and cash equivalents
+Balance with Banks
+ - On current accounts 14,077.38                        1,394.29                                
+As per our report of even date
+For ASA & Associates LLP For and on behalf of Board of Directors
+Firm Registration Number: 2345678987N ABC
+Chartered Accountants
+Partner: Sarath Director: B Director: A
+Membership no : 22222222 DIN: 3456789 DIN: 455487
+Place: Bengaluru Place: Bengaluru Place: Bengaluru
+Date: Date: Date: Particulars
+--- Page 4 ---
+ABC
+Corporate Identity Number (CIN) : U45153KA2014FTC287777
+Notes to the financial statements for  March 31, 2025.
+(All amounts are in thousands of indian rupees (₹), unless otherwise stated)
+1. Corporate Information
+2. Basis of preparation
+2.1. Summary of significant accounting policies
+a) Use of accounting estimatesABC (CIN:U45153KA2014FTC287777) is a private limited company domiciled in India and incorporated on September 16, 2023 under the provisions of
+the Companies Act, 2013 and has its registered office at Bengaluru, Karnataka, India. The company has been established with the primary purpose of
+providing Product Software Development Services.
+The financial statement of the company have been prepared in accordance with the generally accepted accounting principles in India (Indian GAAP).The 
+Company has prepared these financial statements to comply in all material respects with the Accounting Standards notified under section 133 of the 
+Companies Act 2013 read together with the Companies (Accounting Standards) Amendment Rules, 2006 (as amended from time to time) and read 
+together with the Companies (Accounts) Rules, 2014. The financial statements have been prepared under the historical cost convention on an accrual 
+basis.
+Significant accounting policies adopted in preparation of these financial statements are mentioned in paragraph 2.1 below. 
+The preparation of financial statements in conformitywith IndianGAAP requiresthe managementto makejudgments, estimatesand assumptionsthat
+affect the reported amounts of revenues, expenses, assetsand liabilitiesand the disclosure of contingent liabilities, at the end of the reporting period.
+Although these estimates are based on the management’s best knowledge of current events and actions, uncertainty about these assumptions and
+estimates could result in the outcomes requiring a material adjustment to the carrying amounts of assets or liabilities in future periods.
+b) Property, Plant and Equipment
+Property, plant and equipment are stated at cost, net of accumulated depreciation and accumulated impairment losses, if any. The cost comprises
+purchase price, borrowing costs if capitalization criteria are met and directly attributable cost of bringing the asset to its working condition for the
+intended use. Any trade discounts and rebates are deducted in arriving at the purchase price. 
+ c) Deprecia Ɵon on property, plant and equipment
+Depreciation on property, plant and equipment is calculated on a straight-line basis using the rates arrived at, based on the useful lives estimated by
+the management. The identified components are depreciated over their useful lives; the remaining asset is depreciated over the life of the principal
+asset.Thecostofassetsnotreadytousebeforesuchdatearedisclosedunder‘Capital work-in-progress’.Subsequentexpendituresrelatingtoproperty,plant
+and equipment iscapitalized only whenit isprobable thatfuture economicbenefitsassociated withthese willflowtothe Companyand thecostofthe
+item can be measured reliably.The costand related accumulateddepreciation are eliminated from the financial statements uponsale or retirement of
+the asset.The Company identifies and determines cost of each component/ part of the asset separately, if the component/ part has acost which is significant to
+the total cost of the asset and has useful life that is materially different from that of the main asset.Gainsorlossesarisingfrom derecognitionofproperty,plantandequipmentaremeasuredasthedifferencebetweenthenetdisposalproceedsandthe
+carrying amount of the asset and are recognized in the statement of profit and loss when the asset is derecognized.Items of stores and spares that meet the definition of property, plant and equipment are capitalized at cost and depreciated over their useful life.
+Otherwise, such items are classified as inventories.Subsequentexpenditure related to an item of property, plant and equipment isadded to itsbook value only ifit increasesthe futurebenefitsfrom the
+existing asset beyond itspreviously assessed standard of performance.All otherexpenses on existing property, plant and equipment, including day-to-
+day repair and maintenance expenditure and cost of replacing part, are charged to the statement of profit and losses for the period during whichsuch
+expenses are incurred.
+Asset ClassificationUseful Life Considered by 
+Management (In Years)Useful Life as per Schedule II
+of Companies act
+Computers 3 3
+Electrical Equipments 10 10
+--- Page 5 ---
+ABC
+Corporate Identity Number (CIN) : U45153KA2014FTC287777
+Notes to the financial statements for  March 31, 2025.
+(All amounts are in thousands of indian rupees (₹), unless otherwise stated)
+d) Impairment of Property, Plant and Equipments and Intangible Assets
+e) Foreign currency transactions and translations
+(i) Initial recognition
+f) Provision and contingenciesAnassessmentismadeateachreportingdateastowhetherthereisanyindicationthatpreviouslyrecognizedimpairmentlossesmaynolongerexistor
+mayhavedecreased.Ifsuchindicationexists,thecompanyestimatestheasset’sorcash-generatingunit’srecoverableamount.Apreviouslyrecognized
+impairment loss is reversed only if there has been a change in the assumptions used to determine the asset’s recoverable amount since the last
+impairment loss was recognized. The reversal is limited so that the carrying amount of the asset does not exceed its recoverable amount, nor exceed
+the carrying amount that would have been determined, net of depreciation, had no impairment lossbeen recognized for the asset in prior years.Such
+reversal is recognized in the statement of profit and loss unless the asset is carried at a revalued amount, in which case the reversal is treated as a
+revaluation increase.
+Foreign currency transactions are recorded in the reporting currency, by applying to the foreign currency amount the exchange rate between the
+reporting currency and the foreign currency at the date of the transaction.
+(ii) Conversion 
+Foreigncurrencymonetaryitemsareretranslatedusingtheexchangerateprevailingatthereportingdate.Non-monetaryitems,whicharemeasuredin
+terms of historical cost denominated in a foreign currency, are reported using the exchange rate at the date of the transaction. Non-monetary items,
+whichare measured atfair value or othersimilar valuationdenominated inaforeigncurrency, aretranslated usingthe exchangerate atthe datewhen
+such value was determined.
+(iii) Exchange differences
+The Company accountsfor exchange differencesarising on translation/ settlement of foreign currency monetary itemsasincome or asexpenses in the
+period in which they arise in the statement of profit and loss.
+Provisions:
+A provision is recognized when the company has a present obligation as a result of past event and it is probable that an outflow of resources will be
+requiredtosettletheobligationandareliableestimatecanbemadeoftheamountoftheobligation. Provisionsarenotdiscountedtoitspresentvalue
+andaredeterminedbasedonbestestimaterequiredtosettletheobligationatthereportingdate. Theseestimatesarereviewedateachreportingdate
+and adjusted to reflect the current best estimates.Impairment losses of continuing operations, are recognized in the statement of profit and loss, except for previously revalued property, plant &
+equipment, where the revaluation wastaken to revaluation reserve.Inthiscase, theimpairment isalso recognizedintherevaluation reserveup tothe
+amount of any previous revaluation.
+After impairment, depreciation is provided on the revised carrying amount of the asset over its remaining useful life.The Company assesses at each reporting date whether there is an indication that an asset may be impaired. If any indication exists, or when annual
+impairment testing for an asset is required, the company estimates the asset’s recoverable amount. An asset’s recoverable amount is the higher of an
+asset’s or cash-generating unit’s (CGU) net selling price and its value in use. The recoverable amount is determined for an individual asset, unless the
+asset does not generate cash inflows that are largely independent of those from other assets or groups of assets. Where the carrying amount of an
+assetorCGUexceedsitsrecoverableamount,theassetisconsideredimpairedandiswrittendowntoitsrecoverableamount.Inassessingvalueinuse,
+the estimated future undiscounted cash flows considered. In determining net selling price, recent market transactions are taken into account, if
+available. If no such transactions can be identified, an appropriate valuation model is used.
+The Company bases its impairment calculation on detailed budgets and forecast calculations which are prepared separately for each of the Company’s
+cash-generating units to which the individual assets are allocated. These budgets and forecast calculations generally cover a period of five years. For
+longer periods, a long-term growth rate is calculated and applied to project future cash flows after the fifth year.
+--- Page 6 ---
+ABC
+Corporate Identity Number (CIN) : U45153KA2014FTC287777
+Notes to the financial statements for  March 31, 2025.
+(All amounts are in thousands of indian rupees (₹), unless otherwise stated)
+g) Revenue recognition
+Revenue from services rendered:
+h) Income Tax
+i) Earnings per share
+j) Cash & cash equivalents At each reporting date, the Company re-assesses unrecognized deferred tax assets. It recognizes unrecognized deferred tax asset to the extent that it
+has become reasonably certain or virtually certain, as the case may be, that sufficient future taxable income will be available against which such
+deferred tax assets can be realized.
+Thecarrying amountofdeferredtaxassetsarereviewedateachreportingdate.Thecompanywrites-downthecarryingamountofdeferredtaxassetto
+the extent that it is no longer reasonably certain or virtually certain, as the case may be, that sufficient future taxable income will be available against
+which deferred tax asset can be realized. Any such write-down is reversed to the extent that it becomes reasonably certain or virtually certain, as the
+case may be, that sufficient future taxable income will be available.
+Deferred taxassetsand deferred taxliabilitiesare offset, if alegally enforceable rightexiststo set-off current tax assetsagainst current tax liability and
+the deferred tax asset and deferred tax relate to the same taxable entity and the same taxation authority
+Cash and cash equivalents for the purposes of cash flow statement comprise cash at bank and in hand and short-term investments with an original
+maturity of three months or less.Basic and diluted earnings per share are calculated by dividing the net profit or loss for the period attributable to equity shareholders (after deducting
+preference dividends and attributable taxes) by the weighted average number of equity shares outstanding during the period. The weighted average
+number of equity shares outstanding during the period is adjusted for events such as bonus issue, bonus element in a rights issue, share split, and
+reverse share split (consolidation of shares) that have changed the number of equity shares outstanding, without a corresponding change in resources.Deferred income taxesreflectthe impactof timing differencesbetween taxable income and accounting income originating during the current yearand
+reversaloftimingdifferencesfortheearlieryears.Deferredtaxismeasuredusingthetaxratesandthetaxlawsenactedorsubstantivelyenactedatthe
+reporting date.
+Deferred taxliabilitiesare recognized for all taxable timing differences.Deferred tax assetsare recognized for deductible timing differencesonly to the
+extentthatthereisreasonablecertaintythatsufficientfuturetaxableincomewillbeavailableagainstwhichsuchdeferredtaxassetscanberealized.In
+situations where the company has unabsorbed depreciation or carry forward tax losses, all deferred tax assets are recognized only if there is virtual
+certainty supported by convincing evidence that they can be realized against future taxable profits.Tax expense comprises current and deferred tax. Current income-tax is measured at the amount expected to be paid to the tax authorities in
+accordance with the Income-tax Act, 1961 enacted in India. The tax rates and tax laws used to compute the amount are those that are enacted or
+substantively enacted, at the reporting date.Revenuefromservicesrenderedisrecognisedonaccrual basisastheservicesarerenderedinaccordancewiththetermsoftheagreemententeredinto
+by the Company with its customers.Revenue isrecognized to the extent thatit isprobable thatthe economicbenefitswill flowto the Company and the revenue can be reliablymeasured.
+The following specific recognition criteria must also be met before revenue is recognized:Contingent Liabilities:
+Acontingentliabilityisapossibleobligationthatarisesfrom pasteventswhoseexistencewillbeconfirmedbytheoccurrenceornon-occurrenceofone
+or more uncertain future events beyond the control of the company or a present obligation that is not recognized because it is not probable that an
+outflow of resources will be required to settle the obligation. A contingent liability also arises in extremely rare cases where there is a liability that
+cannot be recognized because it cannot be measured reliably. The Company does not recognize a contingent liability but discloses its existence in the
+financial statements.
+--- Page 7 ---
+ABC
+Corporate Identity Number (CIN) : U45153KA2014FTC287777
+Notes to the financial statements for  March 31, 2025.
+(All amounts are in thousands of indian rupees ( ₹), unless otherwise stated)
+3a. Share Capital
+As at As at
+  March 31, 2025   March 31, 2024
+Authorized shares
+4,00,000 Equity Shares of Rs. 10 each 4,000.00                        4,000.00                   
+Issued, subscribed and fully paid-up shares
+4,00,000 Equity Shares of Rs. 10 each fully paid-up 4,000.00                        4,000.00                   
+Total issued, subscribed and fully paid-up share capital 4,000.00                        4,000.00                   
+3b. Details of shareholders holding more than 5% shares in the Company
+Particulars No. of shares % holding No. of shares % holding
+Equity shares of Rs. 10 each fully paid
+ABC Inc 3,96,000                     99.00% 3,96,000                        99.00%
+3c. Shares held by promoters
+Promoter NameNumber of shares 
+at the beginning of 
+the year Number of Shares at 
+the end of the year % of total shares
+3,96,000                     -                          3,96,000                        99.00%
+4,000                          -                          4,000                              1.00%
+3d. Reconciliation of the shares outstanding at the beginning and at the end of the reporting period
+Particulars No. of shares  Amount No. of shares  Amount 
+Number of shares at the beginning of the period 4,00,000                     4,000.00               4,00,000                        4,000.00                   
+Number of shares bought back during the period -                               -                          -                                  -                             
+Number of shares outstanding at the end of the period 4,00,000                    4,000.00               4,00,000                        4,000.00                   
+3e. Terms/ rights attached to equity shares
+3f. Information regarding issue of shares for the period of five years immediately preceding the date as at which the Balance Sheet is prepared
+Particulars As at As at
+  March 31, 2025   March 31, 2024
+Surplus/ (deficit) in the statement of profit and loss -                                  -                             
+17,839.32                      -                             
+Net Profit/(Loss) in the statement of profit and loss 17,839.32                      -                             
+5. Non-current liabilities
+As at As at As at As at
+  March 31, 2025   March 31, 2024   March 31, 2025   March 31, 2024
+Provision for Employee benefits
+Provision for gratuity -                               -                                                              -                                  -   
+Provision for leave encasABCent (257.31)                       -                                                     257.31                                -   
+Provision for others
+Rent equalisation reserve 3,034.79                     -                                                     235.31                                -   
+                    2,777.48 -                                                     492.62                                -   Particulars
+Total As at 
+March 31, 2025  As at 
+March 31, 2024 
+ As at 
+March 31, 2024  As at 
+March 31, 2025 Changes during 
+the yearAs per records of the Company, including its register of shareholders/ members and other declarations received from shareholders regarding beneficial interest, the above
+shareholding represents both legal and beneficial ownerships of shares.Particulars
+ABC Inc
+BBC Inc
+As this is the first year of incorporation, the said details are not relevant to disclose.TheCompany hasequityshareshavingparvalueofRs.10pershareeach.Eachholderofequitysharesisentitledtoonevotepershare.Intheeventofliquidation ofthe
+Company, the holders of equity shares will be entitled to receive remaining assets of the Company, after distribution of all preferential amounts. The distribution will be in
+proportion to the number of equity shares held by the shareholders.
+Add: Profit/(Loss) for the year4. Reserves and surplus
+Long Term Short Term
+--- Page 8 ---
+ABC
+Corporate Identity Number (CIN) : U45153KA2014FTC287777
+Notes to the financial statements for  March 31, 2025.
+(All amounts are in thousands of indian rupees ( ₹), unless otherwise stated)
+6. Trade Payables
+Particulars As at As at
+  March 31, 2025   March 31, 2024
+Trade Payables
+Total outstanding dues of micro and small enterprises (Refer note no 22 for MSME Disclosure) -                                  4,642.71                   
+Total outstanding dues of creditors other than micro enterprises and small enterprises 692.67                           -                             
+692.67                           4,642.71                   
+Ageing As at 31st March 2025
+ Not Due  Less than 
+1 year   1-2 years   2-3 years   More than 3 years   Total 
+Outstanding dues of Micro and small enterprises -                          -           -                               -                          -                                  -                             
+674.67                    18.00        -                               -                          -                                  692.67                      
+Disputed dues of Micro and small enterprises -                          -           -                              -                          -                                  -                             
+-                          -           -                              -                          -                                  -                             
+674.67                   18.00       -                              -                          -                                  692.67                      
+Ageing As at 31st March 2024
+ Not Due  Less than 
+1 year   1-2 years   2-3 years   More than 3 years   Total 
+Outstanding dues of Micro and small enterprises 4,642.71               -           -                               -                          -                                  4,642.71                   
+-                          -           -                               -                          -                                  -                             
+Disputed dues of Micro and small enterprises -                          -           -                              -                          -                                  -                             
+-                          -            -                              -                          -                                  -                             
+4,642.71               -           -                              -                          -                                  4,642.71                   
+7. Other Current Liabilities
+Particulars As at As at
+  March 31, 2025   March 31, 2024
+Statutory dues 2,891.66                        26.50                         
+Payable to employees 2,507.11                        -                             
+Provision for expenses 4,124.32                        244.63                      
+Provision for Income tax 8,043.52                        -                             
+Unearned Revenue 21,046.84                      -                             
+38,613.45                      271.13                      TotalParticulars
+ParticularsTotal
+TotalTotal
+[This space has been left intentionally blank]Outstanding for following periods from due date of payment
+Outstanding dues of Trade payable Other than Micro and 
+small enterprises
+Disputed dues of Trade Payable other than Micro and small 
+enterprisesOutstanding for following periods from due date of payment
+Outstanding dues of Trade payable Other than Micro and 
+small enterprises
+Disputed dues of Trade Payable other than Micro and small 
+--- Page 9 ---
+ABC
+Corporate Identity Number (CIN) : U45153KA2014FTC287777
+Notes to the financial statements for the period ended March 31, 2025
+(All amounts are in thousands of indian rupees ( ₹), unless otherwise stated)
+Note 8 : Property, plant and equipment
+ParticularsElectrical 
+Equipments Office 
+Equipments Computers Total
+Cost
+Opening -                            -                    -                     -                           
+Additions -                            -                    -                     -                           
+Disposals -                            -                    -                     -                           
+As at 31 March 2024 -                            -                    -                     -                           
+Additions 4,149.19                 -                    11,775.16       15,924.35              
+Disposals -                            -                    -                     -                           
+As at 31 March 2025 4,149.19                 -                    11,775.16       15,924.35              
+Depreciation
+Opening -                            -                    -                     -                           
+Charge for the year -                            -                    -                     -                           
+Disposals -                            -                    -                     -                           
+As at 31 March 2024 -                            -                    -                     -                           
+Charge for the year 102.97                     -                    3,391.64          3,494.61                
+Disposals -                            -                    -                     -                           
+Other Adjustments -                            -                    -                     -                           
+As at 31 March 2025 102.97                     -                    3,391.64         3,494.61                
+Net block
+As at 31 March 2024 -                            -                    -                     -                           
+As at 31 March 2025 4,046.22                 -                    8,383.52         12,429.74              
+Note: a) The Property, Plant & Equipment & Intangible assets have not been revalued during the year
+          b) All the immovable properties listed above are held in the name of the Company.
+          c)There are no proceedings against the company under the Benami Transactions (Prohibition) Act, 1988
+8(a). Capital work-in-progress
+Capital work in progress (CWIP) Ageing Schedule
+As at 31st March 2025
+<1 year 1-2 years 2-3 yearsMore than 
+3 yearsTotal
+Projects in progress -                            -                    -                     -                           
+Total -                       -                -                -                      
+As at 31st March 2024
+<1 year 1-2 years 2-3 yearsMore than 
+3 yearsTotal
+Projects in progress* 4,642.71          -                            -                    -                     4,642.71                
+Total 4,642.71     -                       -                -                4,642.71           
+* Relates to IT equipments purchased on 7th March 2024, which are user specific awating installation.
+There are no overdue or cost overrun projects compared to its original plan and no CWIP which are temporarily suspended, on the above mentioned 
+reporting datesAmount in CWIP for a period of 
+ParticularsParticularsAmount in CWIP for a period of 
+--- Page 10 ---
+ABC
+Corporate Identity Number (CIN) : U45153KA2014FTC287777
+Notes to the financial statements for  March 31, 2025.
+(All amounts are in thousands of indian rupees (₹), unless otherwise stated)
+9. Long Term loans & Advances
+As at As at
+Particulars   March 31, 2025   March 31, 2024
+Advance income tax 9,800.00                       -                             
+Group Gratuity Scheme 277.99                           
+Total 10,077.99                     -                             
+10. Deferred tax assets (net)
+Particulars As at As at
+  March 31, 2025   March 31, 2024
+Deferred tax asset arising from:
+(372.09)                         -                             
+1,934.63                       -                             
+Deferred tax assets/ (Liability) 1,562.54                       -                             
+11. Other non current assets
+Particulars As at As at
+  March 31, 2025   March 31, 2024
+Security Deposit 11,372.72                     -                             
+Total 11,372.72                     -                             
+12. Trade Receivables:
+Particulars As at As at
+  March 31, 2025   March 31, 2024
+Unsecured
+Undisputed-
+Considered good -                                 275.12                       
+Considered doubtful -                                 -                             
+Less: Provision for doubtful debts -                                 -                             
+Total -                                 275.12                       
+Ageing As at 31st March 2025
+Not DueLess than 
+6 months 6 months -
+1 year 1-2 years 2-3 Years  More than 3 Years  Total 
+(i) Undisputed Trade receivables — considered good -          -            -                -               -              -                                 -                             
+(ii) Undisputed Trade Receivables — considered doubtful -         -           -                -               -              -                                 -                             
+(iii) Disputed Trade Receivables considered good -         -            -                -               -               -                                 -                             
+(iv) Disputed Trade Receivables considered doubtful -         -            -                -               -               -                                 -                             
+(v) Unbilled dues -         -            -                -               -               -                                 
+Total -         -           -               -              -              -                                 -                             
+Ageing As at 31st March 2024
+Not DueLess than 
+6 months 6 months -
+1 year 1-2 years 2-3 Years  More than 3 Years  Total 
+(i) Undisputed Trade receivables — considered good 275.12    -            -                -               -              -                                 275.12                       
+(ii) Undisputed Trade Receivables — considered doubtful -         -           -                -               -              -                                 -                             
+(iii) Disputed Trade Receivables considered good -         -            -                -               -               -                                 -                             
+(iv) Disputed Trade Receivables considered doubtful -         -            -                -               -               -                                 -                             
+(v) Unbilled dues -         -            -                -               -               -                                 
+Total 275.12  -           -               -              -              -                                 275.12                       
+13. Cash and bank balances
+Particulars As at As at
+  March 31, 2025   March 31, 2024
+Cash and cash equivalents
+Balances with Banks:
+- On Current Accounts 14,077.38                     1,394.29                   
+Total 14,077.38                     1,394.29                   
+14. Short term loans and advances
+Particulars As at As at
+  March 31, 2025   March 31, 2024
+Balance with Government authorities 5,946.31                       2.32                           
+Prepaid Expenses 7,046.01                       2,599.40                  
+Unbilled revenue 3,822.25                       -                             
+Total 16,814.57                     2,601.72                   Outstanding for following periods from due date of paymentOutstanding for following periods from due date of payment(i) Difference between carrying amount of Property, plant and equipment in the 
+financial statements and the Income tax return (Net)
+(ii) Expenses charged in the financial statements but allowable as deduction based on 
+payments in future years under the Income Tax Act, 1961:
+ParticularsParticulars
+--- Page 11 ---
+ABC
+Corporate Identity Number (CIN) : U45153KA2014FTC287777
+Notes to the financial statements for the year ended March 31, 2025
+(All amounts are in thousands of indian rupees ( ₹), unless otherwise stated)
+15.Revenue from Operations
+Particulars Year ended
+ March 31, 2025Period from September 16, 
+2023 to March 31, 2024
+Revenue from information technology enabled services 1,76,967.22                  -                                               
+Total 1,76,967.22                -                                              
+16.Employee benefits expense
+Particulars Year ended
+ March 31, 2025Period from September 16, 
+2023 to March 31, 2024
+Salaries, wages and bonus 79,334.73                     -                                               
+Contribution to provident and other fund 4,443.05                       -                                               
+Staff welfare expenses 5,151.25                       -                                               
+Total 88,929.03                     -                                              
+17.Other expenses
+Particulars Year ended
+ March 31, 2025Period from September 16, 
+2023 to March 31, 2024
+Legal and professional fees 3,123.35                       -                                               
+Audit Fees* 810.00                          -                                               
+Foreign exchange loss, (net) 1,674.70                       -                                               
+Travelling and conveyance 415.99                          -                                               
+Rates and taxes 2,769.46                       -                                               
+Internet Expenses 435.27                          
+Office maintenance 718.82                          -                                               
+Office Rent 23,286.84                     -                                               
+Insurance expenses 18.85                            -                                               
+Membership and Subscriptions 21,225.84                     -                                               
+Recruitment Expenses 5,740.60                       -                                               
+Miscellaneous expenses 3.56                               -                                               
+Total 60,223.28                     -                                              
+* includes below mentioned expenses
+Payment to auditors (excluding Goods and Service Tax)Year ended
+ March 31, 2025Period from September 16 
+2023 to March 31, 2024
+-Statutory audit 375.00                          -                                               
+-for taxation matters (including tax audit) 435.00                          -                                               
+Total 810.00                          -                                              
+--- Page 12 ---
+ABC
+Corporate Identity Number (CIN) : U45153KA2014FTC287777
+Notes to the financial statements for the year ended March 31, 2025
+(All amounts are in thousands of indian rupees ( ₹), unless otherwise stated)
+Defined contribution plans
+Defined benefit plans
+Particulars Year ended
+March 31, 2025  Year ended
+March 31, 2024 
+Opening defined benefit obligation                                              -                                       -   
+Current service cost                                     976.86                                     -   
+Past service cost                                              -                                       -   
+Interest cost                                              -                                       -   
+Benefits paid                                              -                                       -   
+Actuarial (gains) / losses on obligation                                              -                                       -   
+Closing defined benefit obligation                                     976.86                                     -   
+Changes in Plan Assets:
+Particulars Year ended
+March 31, 2025  Year ended
+March 31, 2024 
+Plan assets at the beginning of the year                                              -                                       -   
+Income on Investment                                              -                                       -   
+Contributions                                  1,244.28                                     -   
+Benefits paid                                              -                                       -   
+Actuarial Gain/(Loss)                                       10.57                                     -   
+Plan assets as at the end of the year                                 1,254.85                                     -   
+Defined benefit liability
+Particulars Year ended
+March 31, 2025  Year ended
+March 31, 2024 
+Present value of defined benefit obligation                                     976.86                                     -   
+Less: Fair value of plan assets                                  1,254.85                                     -   
+Amount recognised as liability/(Asset)                                   (277.99)                                     -   
+Amounts in Balance sheet
+Particulars Year ended
+March 31, 2025  Year ended
+March 31, 2024 
+Liability                                              -                                       -   
+Asset                                     277.99                                     -   
+Particulars Year ended
+March 31, 2025  Year ended
+March 31, 2024 
+Current service cost                                     976.86                                     -   
+Past service cost                                              -                                       -   
+Interest cost on benefit obligation                                              -                                       -   
+Expected return on assets                                              -                                       -   
+                                     (10.57)                                     -   
+Net benefit expense                                     966.29                                     -   
+Principal actuarial assumptions:
+ Year ended
+March 31, 2025  Year ended
+March 31, 2024 
+Discount rate 6.70%                                     -   
+Expected return on plan assets 7.00%                                     -   
+Future salary increases 7.00%                                     -   
+Attrition rate 8.00%                                     -   
+Retirement age 58 years                                     -   
+The estimates of future salary increases, considered in actuarial valuation, take account of inflation, seniority, promotion and other relevant factors, such as demand and supply in the
+employment market.
+Assumptions regarding future mortality are based on published statistics and mortality tables. The calculation of the defined benefit obligation is sensitive to the mortality assumptions.18. Employee benefits: Post-employment benefit plans
+Changes in the present value of defined benefit obligation are as follows:
+Net employee benefit expense recognized in the employee cost
+Net actuarial (gain) / loss recognized in the periodTheCompanymakescontributions, determinedasaspecified percentageofemployeessalariesinrespectofqualifyingemployeestowardsprovidentfund,whichisadefinedcontribution
+plan. The Company has no obligation other than to make the specified contributions. The contributions are charged to the statement of profit and loss as they accrue. The amount
+recognised as an expense towards contribution to provident fund for the year aggregates to Rs.4,443.05 thousands (previous year - Nil).
+The Company operates a post employment benefitplanthatprovidesfor gratuitybenefittothe employeesof theCompany. Thegratuity planentitles anemployee, whohas renderedat
+least five years of continuous service, to receive one-half month’s salary for each year ofcompleted serviceat thetime ofretirement/exit. Theobligation underthe scheme is fundedby
+contribution being made towards qualifying insurance policies obtained from the insurer.
+The following tables summarizes the components of net benefit expense recognized in the statement of profit and loss and the unfunded status and amounts recognised in the balance
+sheet for the plan.
+Particulars
+--- Page 13 ---
+ABC
+Corporate Identity Number (CIN) : U45153KA2014FTC287777
+Notes to the financial statements for  March 31, 2025.
+(All amounts are in thousands of indian rupees (₹), unless otherwise stated)
+19. Related party disclosures
+Names of related parties and related party relationship
+a) Related parties where control exists
+Holding company ABCE GCC, Inc.
+Fellow subsidiaries Manyata GCC, Inc.
+Ultimate holding company ABC. ELECTONICS, INC. & ABCE Hospiltality & communications
+b) Related party with whom transactions have taken place during the period
+Ultimate holding company ABC. ELECTONICS, INC. & ABCE Hospiltality & communications
+c) Key managerial personnel
+Director Lalit Ahuja
+Director Arvind Kishor
+Details of Transactions
+Nature of Transactions Name of the related PartyYear ended 
+March 31, 2025Year ended 
+March 31, 2024
+Holding company Issue of shares ABCE GCC Inc -                                      3,960.00                          
+Fellow subsidiaries Issue of shares Manyata GCC Inc -                                      40.00                                
+Holding companyRevenue from information 
+technology enabled servicesABC. ELECTONICS, INC. & ABCE 
+Hospiltality & communications1,76,967.22                       -                                    
+Holding company Reimbursement of expenses*ABC. ELECTONICS, INC. & ABCE 
+Hospiltality & communications-                                                                   275.12 
+Balances at year end
+Nature of Balances Name of the related Party As at  March 31, 2025 As at March 31, 2024
+Holding company Other receivables* ABC. ELECTONICS, INC. & ABCE 
+Hospiltality & communications                                          -   275.12                             
+Holding company Unearned Revenue** ABC. ELECTONICS, INC. & ABCE 
+Hospiltality & communications 21,046.84                                                                 -   
+*Refer Note 12
+**Refer Note 7 
+20 (a). Unhedged foreign currency exposure
+The unhedged foreign currency exposure as at the Balance Sheet date is given below:
+Other receivables USD -                                                       -                                                         3.30                                     275.12                             
+Unearned Revenue USD (251.25)                                               (21,046.84)                                            -                                      -                                    
+20 (b). Earnings in foreign currency
+Particulars Year ended
+March 31, 2025Year ended
+March 31, 2024
+Revenue from information technology enabled services                        1,76,967.22                                       -   
+Total                        1,76,967.22                                       -   
+21. Earnings/(losses) per share (EPS)
+Particulars Year ended
+March 31, 2025Year ended
+March 31, 2024
+Net profit / (loss) attributable to equity shares (in actuals) 17,839.32                           -                                    
+Weighted average number of equity shares outstanding during the year (in actuals) 4,000.00                             -                                    
+Basic and diluted EPS 4.46                                    -                                    
+22. Micro, Small and Medium EnterprisesParticulars
+Particulars
+As at March 31, 2024
+Receivable/(Payable)
+The Ministry of Micro, Small and Medium Enterprises has issued an Office  Memorandum dated 26 August 2008 which recommends that Micro Enterprises and Small Enterprises 
+should mention in their correspondence with their customers the Entrepreneurs Memorandum number as allocated after filing of the Memorandum. Based on information received 
+and available with the Company, there are no overdues outstanding to Micro Enterprises and Small Enterprises as at 31 March 2025. Further, the Company has not received any claim As at March 31, 2025
+Receivable / (Payable)Amount in foreign 
+currency
+As at March 31, 2024Particulars Foreign CurrencyAmount in foreign currency
+As at March 31, 2025
+--- Page 14 ---
+ABC
+Corporate Identity Number (CIN) : U45153KA2014FTC287777
+Notes to the financial statements for  March 31, 2025.
+(All amounts are in thousands of indian rupees (₹), unless otherwise stated)
+Details of dues to micro and small enterprises as defined under the MSMED Act, 2006
+As at  March 31, 2025 As at March 31, 2024
+i. The principal amount and the interest due thereon remaining unpaid to any MSME supplier as at the end of financial year -                                      -                                    
+-                                      -                                    
+-                                      -                                    
+iv.The amount of interest accrued and remaining unpaid at the end of each accounting year. -                                      -                                    
+-                                      -                                    
+23. Contingent liabilities and capital commitments
+There are no Contingent Liabilities and Commitments as at 31st March 2025.
+24. Reimbursement of expenses & Earnings in foreign currency
+Particulars Year ended
+March 31, 2025Year ended
+March 31, 2024
+Rates & taxes -                                      6.13                                  
+Repairs & maintenance -                                      -                                    
+Payment to auditor (Refer note A below) -                                      265.00                             
+Bank charges -                                      3.99                                  
+Reimbursement recovery from holding company -                                      275.12                             
+Note A:
+Payment to auditor
+As auditor:
+Statutory audit fees -                                      175.00                             
+Other taxation matters -                                      90.00                                
+Total -                                      265.00                             
+25. Transfer Pricing
+26. Other analytical ratios 
+S.No Ratio Numerator DenominatorAs at 
+March 31, 2025As at 
+March 31, 2024
+1  Current Ratio Current assets Current liabilities 0.78                                        0.87                                      
+2 Trade payables turnover ratio Net Credit PurchasesAverage TradePayables including
+accrued expenses                                      13.13 -                                        
+3  Return on Equity Ratio (%) Net profit after tax Average Shareholders equity
+(Total equity for current year + Total
+equity for previous year)/2445.98% -                                        
+4  Net capital turnover ratio Revenue from operations Working Capital
+(Current assets-Current liabilities)                                    (19.87) -                                        
+5  Net profit ratio (%) Net profit after tax Revenue from operations 10.08% -                                        
+6  Return on Capital employed (%) Earnings before interest and tax Capital employed 608.01% -                                        
+Notes:
+i) The Company has started the operation during the year, the ratios are applicable for the current year and variance is not applicable. 
+ii) The Company does not has any borrowings accordingly debt-equity, debt service coverage ratios is not applicable.
+iii) The Company does not has any inventory, accordingly inventory turnover ratios are is not applicable.
+iv) The Company does not has any investments, accordingly return on investment ratios is not applicable.ii. The amount of interest paid by the buyer in terms of section 16 of the MSMED ACT 2006 along with the amounts of the payment 
+made to the supplier beyond appointed day during each accounting year.
+iii. The amount of interest due and payable for the period of delay in making payment (which have been paid but beyond the 
+appointment day during the year) but without adding the interest specified under the MSMED Act, 2006.Based on the information available with the Company, payments are made within the 45 days of receipt of good and services from suppliers who are registered as micro or small 
+enterprises under The Micro, Small and Medium Enterprises Development Act, 2006 ('MSMED Act') as at March 31, 2025
+v. The amount of further interest remaining due and payable even in the succeeding years, until such date when the interest dues as 
+above are actually paid to the small enterprise for the purpose of disallowance as a deductible expenditure under section 23 of the 
+MSMED Act 2006.
+The Company has established a comprehensive system of maintenance of information and documents as required by the transfer pricing legislation under sections 92-92F of the
+Income-taxAct,1961(‘Act’). Sincethelawrequiresexistenceofsuchinformationanddocumentationtobecontemporaneousinnature,theCompany isintheprocessof updatingthe
+documentationfortheinternationaltransactionsenteredintowiththeassociatedenterprisesduringthefinancialyearandexpectssuchrecordstobeinexistencelatestbeforethedue
+dateforfiling of returnundertheAct.Themanagementisof theopinionthatitsinternational transactionsareatarm’slengthsothattheaforesaidlegislation will nothave anyimpact
+on the financial statements, particularly on the amount of tax expense and that of provision for taxation.Particulars
+Effective September 16, 2023, the Company is in the process of entering into a service agreement with H.M. ELECTRONICS, INC. to provide Product Software Development. As per the
+terms and conditions of such agreement, the pre-operative expenses incurred for the year will be reimbursed by such company on a cost basis. The amount is receivable in USD.
+--- Page 15 ---
+ABC
+Corporate Identity Number (CIN) : U45153KA2014FTC287777
+Notes to the financial statements for  March 31, 2025.
+(All amounts are in thousands of indian rupees (₹), unless otherwise stated)
+27. Leases
+Operating lease
+For the year ended 
+31 March, 2025For the year ended 
+31 March, 2024
+                          46,823.34                                       -   
+                          81,940.85                                       -   
+later than five years                                          -                                         -   
+                       1,28,764.19                                       -   
+28. Other statutory information
+(a) The Company does not have any Benami property, where any proceeding has been initiated or pending against the Company for holding any Benami property.
+(b) The Company does not have any charges or satisfaction which is yet to be registered with ROC beyond the statutory period.
+(c) The Company has not been declared as wilful defaulter by any bank or financial institutions or other lenders.
+(e) The Company does not have any Property, Plant and Equipments.
+(f) The Company has no layers as prescribed under clause (87) of section 2 of the Act read with Companies (Restriction on number of layers) Rules, 2017
+      (i)  directly or indirectly lend or invest in other persons or entities identified in any manner whatsoever by or on behalf of the company (Ultimate Beneficiaries)
+      (ii) provide any guarantee, security or the like to or on behalf of the Ultimate Beneficiaries
+      (ii)  provide any guarantee, security or the like on behalf of the Ultimate Beneficiaries,
+As per our report of even date
+For ASA & Associates LLP For and on behalf of Board of Directors
+Firm Registration Number: 2345678987N ABC
+Chartered Accountants
+Partner: Sarath Director: B Director: Arvind Kishor
+Membership no.: 22222222 DIN:07931964 DIN:07032173
+Place: Bengaluru Place:  Bengaluru Place: Bengaluru
+Date: Date: Date:       (i)  directly or indirectly lend or invest in other persons or entities identified in any manner whatsoever by or on behalf of the Funding Party (Ultimate Beneficiaries)
+(j) The Company do not have any transactions with companies struck off under section 248 of the Companies Act, 2013 or section 560 of Companies Act, 1956.(h)  The Company has not received any fund from any person(s) or entity(ies), including foreign entities (Funding Party) with the understanding (whether recorded in writing or 
+otherwise) that the Company shall:
+(i)  The Company does not have any such transaction which is not recorded in the books of accounts that has been surrendered or disclosed as income during the year in the tax 
+assessments under the Income Tax Act, 1961 (such as, search or survey or any other relevant provisions of the Income Tax Act, 1961.Later than one year and Not later than 5 years
+Total
+(g)  The Company has not advanced or loaned or invested funds to any other person(s) or entity(ies), including foreign entities (Intermediaries) with the understanding that the 
+Intermediary shall:(d) The Comany has not acquired any immovable properties.The Company has entered into leasing arrangement for office premises, which is cancellable and non cancellable in nature. During the year an amount of Rs 23,286.84 thousands 
+(previous year: Rs Nil ) was recognised as an expense in the statement of profit and loss in respect of cancellable and non cancellable operating leases. Some of the lease agreements 
+have escalation clauses. There are no exception/restrictive covenants in the lease agreement. 
+Future minimum rental payable under non-cancellable operating leases are as follows:
+Particulars
+Not later than one year

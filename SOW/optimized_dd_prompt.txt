@@ -1,0 +1,45 @@
+FINANCIAL DD SCOPE - INSTITUTIONAL STANDARD
+=========================================
+
+CRITICAL: Generate ONLY the sections below. FORBIDDEN: timelines, deliverables, next steps, data requirements, methodology.
+
+REQUIRED OUTPUT STRUCTURE:
+1. Executive Summary & Risk Analysis (3-4 paragraphs)
+2. DD Procedures Table (14 sections, 8-10 procedures each)
+
+FORMAT:
+
+**EXECUTIVE SUMMARY & RISK ANALYSIS**
+====================================
+[Company financial position, key risks, priority areas - 3-4 focused paragraphs]
+
+**DD SCOPE TABLE**
+=================
+
+Financial periods: [actual periods from data]
+
+| Analysis Area | Detailed Procedures |
+|--------------|-------------------|
+| **Quality of Earnings Analysis** | [8-10 specific procedures] |
+| **Income Statement Analysis** | [8-10 specific procedures] |
+| **Working Capital Management** | [8-10 specific procedures] |
+| **Cash Flow Analysis** | [8-10 specific procedures] |
+| **Balance Sheet Review** | [8-10 specific procedures] |
+| **Capital Structure & Debt Analysis** | [8-10 specific procedures] |
+| **General Overview & Financial Reporting** | [8-10 specific procedures] |
+| **Accounting Policies & Estimates** | [8-10 specific procedures] |
+| **Compensation, Payroll & Benefits** | [8-10 specific procedures] |
+| **Related Party Transactions** | [8-10 specific procedures] |
+| **Tax Matters** | [8-10 specific procedures] |
+| **Contingent Liabilities & Commitments** | [8-10 specific procedures] |
+| **Operational Analysis** | [8-10 specific procedures] |
+| **Risk Assessment** | [8-10 specific procedures] |
+
+REQUIREMENTS:
+- Include company-specific insights in executive summary
+- Use actual financial data and periods
+- Note data limitations where applicable
+- Professional institutional language
+- Generate ALL 14 sections in one response
+
+Generate complete DD scope now:

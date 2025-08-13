@@ -1,0 +1,240 @@
+INFORMATION REQUIREMENTS LIST
+==================================================
+Company: particularly regarding growth assumptions and margin sustainability in an inc
+Generated: August 05, 2025
+
+Historical period: FY2014-2015, FY2013-2014
+Balance sheet date: March 31, 2015
+Information on consolidated basis wherever applicable
+
+==================================================
+
+Historical period: 2014-2025, 2014-2025
+
+Balance sheet date: 
+
+Information on consolidated basis wherever applicable
+
+**REVENUE ANALYSIS**
+
+1. (a) Review detailed revenue recognition policies for all service contract types
+(b) Service contract templates, accounting policy documentation, revenue recognition criteria
+(c) Analysis of timing and method of revenue recognition across contract types
+(d) Compare practices to ASC 606 requirements and industry standards
+(e) Detailed matrix showing recognition methods by contract type
+(f) Provide within 5 business days with 3-year historical data (Priority: High)
+
+2. (a) Analyze bill-and-hold arrangements and percentage of completion methods
+(b) Contract documentation, work completion reports, billing schedules
+(c) Review revenue timing versus service delivery milestones
+(d) Cross-reference with customer acceptance documentation
+(e) Summary spreadsheet with monthly recognition patterns
+(f) Complete analysis for last 8 quarters (Priority: High)
+
+**INCOME STATEMENT ANALYSIS**
+
+3. (a) Evaluate service revenue growth drivers by segment
+(b) Detailed revenue breakdowns, pricing analyses, volume metrics
+(c) Perform variance analysis on growth components
+(d) Compare against industry benchmarks and market growth rates
+(e) Presentation with growth trends and underlying metrics
+(f) Cover FY2014-2025 with quarterly granularity (Priority: High)
+
+4. (a) Review margin sustainability across service lines
+(b) Cost allocation methodologies, pricing strategies, competitor data
+(c) Analysis of fixed vs. variable cost components
+(d) Stress test margins under various growth scenarios
+(e) Dynamic model with sensitivity analysis
+(f) Project margins through FY2025 (Priority: Medium)
+
+**WORKING CAPITAL MANAGEMENT**
+
+5. (a) Analyze accounts receivable aging profiles
+(b) Detailed AR aging reports, collection history, credit terms
+(c) Trend analysis of DSO by customer segment
+(d) Identify high-risk accounts and collection patterns
+(e) Aging schedule with customer concentration analysis
+(f) Monthly data for past 24 months (Priority: High)
+
+6. (a) Review working capital efficiency metrics
+(b) Historical working capital statements, industry benchmarks
+(c) Calculate working capital ratios and turnover metrics
+(d) Compare against peer group performance
+(e) Dashboard showing key efficiency metrics
+(f) Quarterly analysis FY2014-2025 (Priority: Medium)
+
+**CASH FLOW ANALYSIS**
+
+7. (a) Analyze operating cash flow conversion trends
+(b) Historical cash flow statements, reconciliations to EBITDA
+(c) Calculate and analyze cash conversion metrics
+(d) Review seasonal patterns and one-time impacts
+(e) Waterfall charts showing conversion drivers
+(f) Monthly detail for trailing 36 months (Priority: High)
+
+8. (a) Review cash flow sustainability under growth scenarios
+(b) Growth projections, working capital requirements, capex plans
+(c) Model cash flow impacts of various growth rates
+(d) Stress test assumptions for different scenarios
+(e) Scenario analysis with key assumptions detailed
+(f) Five-year projections through FY2025 (Priority: High)
+
+**BALANCE SHEET REVIEW**
+
+9. (a) Detailed breakdown of tangible and intangible assets for FY2014-2025
+(b) Fixed asset register, depreciation schedules, and impairment assessments
+(c) Analysis of asset growth rates relative to revenue growth assumptions
+(d) Reconciliation of carrying values to market valuations
+(e) Excel format with quarterly trending and growth rate calculations
+(f) Provide within 5 business days with historical data and projections (Priority: High)
+
+10. (a) Analysis of working capital components and their relationship to growth
+(b) Inventory aging reports, AR/AP schedules, and cash conversion cycle metrics
+(c) Comparison of working capital ratios to industry benchmarks
+(d) Review of working capital management policies and procedures
+(e) Standardized template showing 5-year historical trends
+(f) Complete analysis within 7 business days (Priority: High)
+
+**CAPITAL STRUCTURE & DEBT ANALYSIS**
+
+11. (a) Comprehensive debt schedule including all interest-bearing obligations
+(b) Loan agreements, bond indentures, and covenant compliance certificates
+(c) Analysis of debt service coverage ratios and interest coverage metrics
+(d) Assessment of debt capacity relative to growth plans
+(e) Detailed spreadsheet with debt maturity profile and covenant calculations
+(f) Submit within 10 business days with sensitivity analysis (Priority: High)
+
+12. (a) Review of capital structure optimization strategy
+(b) Board presentations on financing strategy and capital allocation
+(c) Analysis of weighted average cost of capital calculations
+(d) Benchmarking against peer group capital structures
+(e) PowerPoint presentation with key metrics and recommendations
+(f) Deliver analysis within 15 business days (Priority: Medium)
+
+**GENERAL OVERVIEW & FINANCIAL REPORTING**
+
+13. (a) Documentation of financial statement preparation process and controls
+(b) Internal control manuals, process flowcharts, and reporting calendars
+(c) Review of reconciliation procedures and adjustment protocols
+(d) Testing of key control points and reporting accuracy
+(e) Process documentation in flowchart format with narrative
+(f) Complete review within 20 business days (Priority: High)
+
+14. (a) Detailed analysis of revenue recognition policies and procedures
+(b) Customer contracts, billing schedules, and revenue accounting manual
+(c) Review of revenue timing and recognition criteria
+(d) Testing of revenue recognition compliance with accounting standards
+(e) Summary memo with specific focus on growth impact
+(f) Provide analysis within 10 business days (Priority: High)
+
+**ACCOUNTING POLICIES & ESTIMATES**
+
+15. (a) Detailed analysis of executive compensation structure and its alignment with growth targets
+(b) Complete compensation packages for C-suite executives FY2014-2025
+(c) Comparative analysis against industry benchmarks and growth metrics
+(d) Independent verification of performance-based compensation calculations
+(e) Excel spreadsheet with quarterly breakdown by component
+(f) Due within 5 business days with historical trending analysis (Priority: High)
+
+16. (a) Review of employee incentive programs tied to margin improvement initiatives
+(b) Documentation of all bonus structures and performance metrics
+(c) Assessment of correlation between incentives and margin growth
+(d) Verification of bonus accruals and payment history
+(e) Summary report with supporting calculations
+(f) Submit within 10 business days with year-over-year comparison (Priority: Low)
+
+**COMPENSATION, PAYROLL & BENEFITS**
+
+17. (a) Comprehensive list of all related party transactions impacting growth projections
+(b) Contracts, agreements, and pricing arrangements with related entities
+(c) Analysis of transaction terms versus market rates
+(d) Independent verification of transaction necessity and business purpose
+(e) Detailed schedule in Excel with transaction flow diagrams
+(f) Complete review within 7 business days (Priority: High)
+
+18. (a) Evaluation of related party influence on margin sustainability
+(b) Financial impact analysis of all related party arrangements
+(c) Assessment of alternative market options and cost implications
+(d) Verification of arm's length principles in pricing
+(e) Report with quantitative impact analysis
+(f) Due within 15 business days (Priority: Medium)
+
+**RELATED PARTY TRANSACTIONS**
+
+19. (a) Review of tax planning strategies affecting growth projections
+(b) Tax returns and supporting calculations for FY2014-2025
+(c) Analysis of effective tax rate trends and sustainability
+(d) Verification of tax position impact on margins
+(e) Comprehensive tax analysis report
+(f) Submit within 10 business days (Priority: High)
+
+20. (a) Assessment of tax compliance status across all jurisdictions
+(b) Documentation of all tax audits and correspondence
+(c) Review of tax provision calculations and methodology
+(d) Validation of tax accruals and payments
+(e) Summary of findings with risk assessment
+(f) Complete within 12 business days (Priority: High)
+
+**TAX MATTERS**
+
+21. (a) Analysis of contingent liabilities impacting growth assumptions
+(b) Legal correspondence and claim documentation
+(c) Evaluation of potential financial impact on margins
+(d) Third-party validation of liability estimates
+(e) Risk-adjusted financial impact report
+(f) Due within 8 business days (Priority: High)
+
+22. (a) Review of contractual commitments affecting margin sustainability
+(b) Material contracts and commitment schedules
+(c) Assessment of financial obligations and timing
+(d) Verification of commitment disclosure adequacy
+(e) Detailed commitment analysis matrix
+(f) Submit within 14 business days (Priority: High)
+
+**CONTINGENT LIABILITIES & COMMITMENTS**
+
+23. (a) Detailed analysis of service delivery KPIs including customer satisfaction scores, response times, and completion rates
+(b) Monthly operational reports, customer feedback logs, and service level agreement (SLA) performance data for FY2014-2025
+(c) Trend analysis of key metrics with focus on seasonal variations and growth correlation
+(d) Cross-reference with industry benchmarks and historical company standards
+(e) Excel dashboard with monthly granularity and graphical representations
+(f) Delivery within 5 business days for initial review (Priority: High)
+
+24. (a) Assessment of operational efficiency metrics and their impact on margin sustainability
+(b) Resource utilization reports, cost per service delivery unit, and productivity metrics
+(c) Comparative analysis of efficiency ratios against revenue growth rates
+(d) Verification of calculation methodologies and data consistency
+(e) Standardized reporting template with quarterly breakdowns
+(f) Submit detailed analysis by end of month (Priority: High)
+
+**OPERATIONAL ANALYSIS**
+
+25. (a) Evaluation of capacity utilization and scalability metrics
+(b) Infrastructure capacity reports, peak load analysis, and expansion planning documents
+(c) Review of utilization patterns and correlation with margin performance
+(d) Validation of capacity measurement methodology
+(e) Comprehensive report with future capacity projections
+(f) Complete assessment within 2 weeks (Priority: Medium)
+
+26. (a) Analysis of market competition and pricing pressure impacts on growth assumptions
+(b) Competitor analysis reports, pricing studies, and market share data
+(c) Statistical analysis of pricing elasticity and market share trends
+(d) Independent verification of market data sources
+(e) Detailed report with competitive positioning matrix
+(f) Submit findings within 10 business days (Priority: Medium)
+
+**RISK ASSESSMENT**
+
+27. (a) Assessment of regulatory and compliance risks affecting margin sustainability
+(b) Regulatory filings, compliance reports, and industry regulation updates
+(c) Impact analysis of potential regulatory changes on operational costs
+(d) Review of compliance cost allocation methodology
+(e) Risk matrix with mitigation strategies and cost implications
+(f) Complete review by quarter-end (Priority: Medium)
+
+28. (a) Evaluation of technology disruption risks to current service model
+(b) Technology landscape analysis, innovation reports, and adaptation strategies
+(c) Scenario analysis of potential disruption impacts on growth and margins
+(d) Validation of technology assessment methodology
+(e) Strategic response plan with investment implications
+(f) Deliver comprehensive assessment within 3 weeks (Priority: High)

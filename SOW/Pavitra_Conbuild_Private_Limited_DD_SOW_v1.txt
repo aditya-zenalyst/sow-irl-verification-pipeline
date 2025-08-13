@@ -1,0 +1,137 @@
+FINANCIAL DUE DILIGENCE SCOPE OF WORK
+==================================================
+Company: Pavitra Conbuild Private Limited
+Generated: August 07, 2025
+
+📊 SCOPE SUMMARY
+--------------------
+Analysis Areas: 14
+Estimated Hours: 350
+Complexity Level: Medium
+
+**EXECUTIVE SUMMARY & RISK ANALYSIS**
+====================================
+Pavitra Conbuild Private Limited, operating in the financial sector over FY2013-2022, demonstrates potential concerns regarding its profitability trends and cash flow management. Initial analysis indicates volatility in operating margins and working capital efficiency, warranting detailed examination.
+
+The company's financial position shows particular sensitivity to cash flow cycles and funding structure, with emphasis needed on understanding revenue recognition practices and related party exposures. Historical performance trends suggest potential pressure points in working capital management and debt servicing capabilities.
+
+Given the specified risk areas of profitability and cash flow, focused attention is required on quality of earnings, sustainability of revenue streams, and adequacy of internal controls. The extended review period (FY2013-2022) provides sufficient historical context to assess cyclical patterns and structural changes in the business model.
+
+**DD SCOPE TABLE**
+=================
+Financial periods: FY2013-2022
+
+| Analysis Area | Detailed Procedures |
+|--------------|-------------------|
+| **Quality of Earnings Analysis** | 1. Review revenue recognition policies and application consistency
+2. Analyze recurring vs non-recurring income streams
+3. Examine margin trends and profitability drivers
+4. Review major customer concentration and contract terms
+5. Assess commission structures and revenue sharing arrangements
+6. Evaluate fee income recognition timing
+7. Analyze provision policies and actual write-offs
+8. Review extraordinary items and one-time adjustments |
+| **Income Statement Analysis** | 1. Perform vertical and horizontal analysis of P&L components
+2. Review cost allocation methodologies
+3. Analyze operating expense trends and fixed/variable split
+4. Examine interest income and expense patterns
+5. Review management fee structures
+6. Assess commission expense recognition
+7. Analyze staff cost trends and ratios
+8. Review provision for doubtful debts methodology |
+| **Working Capital Management** | 1. Analyze receivables aging and collection patterns
+2. Review working capital ratios and trends
+3. Examine payables management and vendor terms
+4. Assess adequacy of working capital facilities
+5. Review cash conversion cycle components
+6. Analyze inventory management (if applicable)
+7. Review working capital funding sources
+8. Examine seasonal working capital requirements |
+| **Cash Flow Analysis** | 1. Prepare detailed cash flow statements
+2. Review operating cash flow trends
+3. Analyze investing activities and capital expenditure
+4. Examine financing cash flows and debt service
+5. Review dividend payout history
+6. Assess free cash flow generation
+7. Analyze cash flow forecasting methodology
+8. Review cash management policies |
+| **Balance Sheet Review** | 1. Analyze asset quality and composition
+2. Review liability structure and maturity profile
+3. Examine capital adequacy ratios
+4. Review off-balance sheet items
+5. Analyze investment portfolio composition
+6. Review asset impairment assessments
+7. Examine collateral valuations
+8. Analyze leverage ratios |
+| **Capital Structure & Debt Analysis** | 1. Review debt agreements and covenants
+2. Analyze cost of capital components
+3. Examine debt maturity profile
+4. Review security structure of borrowings
+5. Analyze interest coverage ratios
+6. Review debt service capability
+7. Examine capital raising history
+8. Assess refinancing requirements |
+| **General Overview & Financial Reporting** | 1. Review financial statement preparation process
+2. Examine reporting systems and controls
+3. Review audit reports and management letters
+4. Analyze accounting system adequacy
+5. Review internal control framework
+6. Examine financial closing procedures
+7. Review management reporting packages
+8. Assess regulatory compliance reporting |
+| **Accounting Policies & Estimates** | 1. Review significant accounting policies
+2. Examine changes in accounting estimates
+3. Analyze provision computation methodologies
+4. Review asset depreciation policies
+5. Examine revenue recognition criteria
+6. Review fair value measurement approaches
+7. Analyze impairment testing methods
+8. Review lease accounting policies |
+| **Compensation, Payroll & Benefits** | 1. Review compensation structure and policies
+2. Analyze executive compensation arrangements
+3. Review bonus calculation methodologies
+4. Examine benefit plans and obligations
+5. Review payroll processing systems
+6. Analyze employee cost trends
+7. Review performance-linked compensation
+8. Examine retirement benefit obligations |
+| **Related Party Transactions** | 1. Identify all related party relationships
+2. Review pricing policies for related party transactions
+3. Examine intercompany account reconciliations
+4. Review management agreements
+5. Analyze transfer pricing arrangements
+6. Review related party loans and terms
+7. Examine disclosure adequacy
+8. Review approval processes |
+| **Tax Matters** | 1. Review tax compliance status
+2. Analyze tax provision calculations
+3. Examine pending tax assessments
+4. Review transfer pricing documentation
+5. Analyze deferred tax positions
+6. Review tax planning strategies
+7. Examine tax dispute history
+8. Review indirect tax compliance |
+| **Contingent Liabilities & Commitments** | 1. Review legal case status and exposure
+2. Examine guarantee obligations
+3. Review commitment letters and agreements
+4. Analyze potential regulatory penalties
+5. Review insurance coverage adequacy
+6. Examine environmental liabilities
+7. Review contingent asset rights
+8. Analyze lease commitments |
+| **Operational Analysis** | 1. Review operational efficiency metrics
+2. Analyze cost per unit metrics
+3. Review capacity utilization
+4. Examine operational risk management
+5. Review business continuity plans
+6. Analyze technology infrastructure
+7. Review operational procedures
+8. Examine quality control systems |
+| **Risk Assessment** | 1. Review risk management framework
+2. Analyze credit risk exposure
+3. Examine market risk management
+4. Review operational risk controls
+5. Analyze compliance risk exposure
+6. Review strategic risk assessment
+7. Examine reputation risk management
+8. Analyze liquidity risk controls |

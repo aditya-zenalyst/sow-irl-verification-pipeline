@@ -1,0 +1,66 @@
+{
+  "irl_template_structure": {
+    "header_section": {
+      "purpose": "Define scope and context",
+      "elements": [
+        "Historical period definition",
+        "Balance sheet dates",
+        "Scope instructions (consolidated basis)",
+        "General context and approach"
+      ]
+    },
+    "main_sections": {
+      "A": {
+        "title": "Financial statements, MIS and other general information",
+        "focus": "Core financial documents and reporting",
+        "typical_requests": [
+          "Audited financial statements",
+          "Management accounts (MIS)",
+          "Legal structure",
+          "Accounting policies",
+          "Restructuring details"
+        ]
+      },
+      "B": {
+        "title": "Profit and loss",
+        "focus": "Revenue and expense analysis",
+        "subsections": {
+          "I": "Revenue analysis",
+          "II": "Employee costs",
+          "III": "Other expenses"
+        }
+      },
+      "C": {
+        "title": "Balance sheet",
+        "focus": "Asset and liability analysis",
+        "subsections": {
+          "IV": "Fixed assets",
+          "VI": "Trade receivables, unbilled revenue",
+          "VII": "Other assets",
+          "VIII": "Cash and bank balances",
+          "IX": "Trade payables and other liabilities",
+          "X": "Borrowings, related party transactions and contingent liabilities"
+        }
+      }
+    },
+    "request_patterns": {
+      "high_priority": [
+        "Core financial statements",
+        "Revenue analysis",
+        "Customer receivables",
+        "Employee cost details",
+        "Cash and banking"
+      ],
+      "medium_priority": [
+        "Legal documentation",
+        "Asset registers",
+        "Professional fees",
+        "Related party transactions"
+      ],
+      "low_priority": [
+        "Company structure",
+        "Organizational charts"
+      ]
+    }
+  }
+}

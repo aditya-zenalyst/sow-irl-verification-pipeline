@@ -1,0 +1,166 @@
+FINANCIAL DUE DILIGENCE SCOPE OF WORK
+==================================================
+Company: ABC
+Generated: August 01, 2025
+
+📊 SCOPE SUMMARY
+--------------------
+Analysis Areas: 14
+Estimated Hours: 350
+Complexity Level: High
+
+**EXECUTIVE SUMMARY & RISK ANALYSIS**
+====================================
+ABC, a relatively young company (established 2014) shows significant growth between FY2024-2025, with revenue scaling to ₹176.97M in FY2025 from nil operations in FY2024. The company maintains a healthy shareholders' fund position of ₹21.84M, indicating strong equity backing, though this represents a substantial change from the previous year's ₹4M.
+
+Working capital management presents a potential risk area, with current liabilities of ₹39.8M against current assets of ₹30.89M, resulting in a negative working capital position. While cash and bank balances appear healthy at ₹14.08M, the significant increase in other current liabilities (₹38.61M) warrants careful investigation.
+
+The company's capital structure has evolved significantly, with increased leverage and substantial growth in operations. Key risk areas include rapid operational scaling, working capital management, and the sustainability of the revenue growth trajectory. The absence of trade receivables despite significant revenue generation requires particular attention during the DD process.
+
+**DD SCOPE TABLE**
+=================
+
+Financial periods: FY2024-2025
+
+| Analysis Area | Detailed Procedures |
+|--------------|-------------------|
+| **Quality of Earnings Analysis** | 1. Analyze revenue recognition policies and timing
+2. Review major contracts and revenue streams
+3. Assess revenue concentration and customer dependency
+4. Evaluate gross margin trends and composition
+5. Review non-recurring and extraordinary items
+6. Analyze operational costs and margins
+7. Assess revenue quality and sustainability
+8. Review billing and collection processes
+9. Evaluate customer contract terms
+10. Analyze seasonal patterns and trends |
+| **Income Statement Analysis** | 1. Perform vertical and horizontal analysis
+2. Review cost structure and major components
+3. Analyze operating leverage
+4. Review employee costs and efficiency metrics
+5. Assess marketing and sales expenses
+6. Evaluate depreciation policies
+7. Review interest and financing costs
+8. Analyze tax provisions and effective rates
+9. Review extraordinary items and one-offs
+10. Assess profitability ratios and trends |
+| **Working Capital Management** | 1. Calculate working capital cycle
+2. Review inventory management (if applicable)
+3. Analyze receivables aging and quality
+4. Review payables management and terms
+5. Assess cash conversion cycle
+6. Review working capital financing
+7. Analyze historical working capital trends
+8. Review credit policies and procedures
+9. Assess working capital efficiency ratios
+10. Evaluate seasonal working capital needs |
+| **Cash Flow Analysis** | 1. Analyze operating cash flow components
+2. Review investing cash flows and CAPEX
+3. Assess financing cash flows and structure
+4. Evaluate free cash flow generation
+5. Review cash flow forecasting process
+6. Analyze cash flow seasonality
+7. Review bank relationships and facilities
+8. Assess cash management procedures
+9. Evaluate cash flow ratios
+10. Review cash repatriation policies |
+| **Balance Sheet Review** | 1. Analyze asset composition and quality
+2. Review liability structure and terms
+3. Evaluate equity components and changes
+4. Review fixed asset additions and disposals
+5. Assess intangible assets valuation
+6. Review long-term investments
+7. Analyze debt positions and covenants
+8. Evaluate contingent liabilities
+9. Review off-balance sheet items
+10. Assess asset utilization ratios |
+| **Capital Structure & Debt Analysis** | 1. Review debt agreements and terms
+2. Analyze cost of capital components
+3. Evaluate debt service coverage
+4. Review financial covenants compliance
+5. Assess debt maturity profile
+6. Analyze interest rate sensitivity
+7. Review security and collateral
+8. Evaluate refinancing options
+9. Assess leverage ratios
+10. Review capital structure strategy |
+| **General Overview & Financial Reporting** | 1. Review accounting software and systems
+2. Assess financial reporting procedures
+3. Evaluate internal control framework
+4. Review audit reports and findings
+5. Assess reporting timeliness
+6. Review management reporting
+7. Evaluate budgeting process
+8. Review variance analysis procedures
+9. Assess quality of financial planning
+10. Review board reporting package |
+| **Accounting Policies & Estimates** | 1. Review revenue recognition policies
+2. Evaluate depreciation methods
+3. Assess provision policies
+4. Review capitalization policies
+5. Evaluate inventory valuation methods
+6. Review lease accounting
+7. Assess foreign currency treatment
+8. Review tax accounting policies
+9. Evaluate contingency recognition
+10. Review significant estimates |
+| **Compensation, Payroll & Benefits** | 1. Review compensation structure
+2. Analyze benefit plans and costs
+3. Evaluate bonus and incentive plans
+4. Review payroll processes
+5. Assess employee contracts
+6. Review stock option plans
+7. Evaluate pension obligations
+8. Review compensation benchmarking
+9. Assess retention programs
+10. Review payroll tax compliance |
+| **Related Party Transactions** | 1. Identify related parties
+2. Review transfer pricing policies
+3. Analyze intercompany transactions
+4. Review management agreements
+5. Assess shared service arrangements
+6. Review related party loans
+7. Evaluate lease arrangements
+8. Review purchase/sale agreements
+9. Assess dividend policies
+10. Review disclosure adequacy |
+| **Tax Matters** | 1. Review tax compliance status
+2. Assess tax planning strategies
+3. Review transfer pricing studies
+4. Evaluate tax provisions
+5. Review tax assessments
+6. Analyze tax disputes
+7. Review indirect tax matters
+8. Assess international tax issues
+9. Review tax incentives
+10. Evaluate deferred tax positions |
+| **Contingent Liabilities & Commitments** | 1. Review legal proceedings
+2. Assess warranty obligations
+3. Evaluate environmental liabilities
+4. Review purchase commitments
+5. Assess lease commitments
+6. Review guarantees issued
+7. Evaluate insurance coverage
+8. Review contingent assets
+9. Assess regulatory compliance
+10. Review contractual obligations |
+| **Operational Analysis** | 1. Review operational metrics
+2. Analyze capacity utilization
+3. Evaluate operational efficiency
+4. Review project economics
+5. Assess operational risks
+6. Review cost allocation methods
+7. Evaluate operational leverage
+8. Review operational forecasts
+9. Assess operational controls
+10. Review operational reporting |
+| **Risk Assessment** | 1. Evaluate market risks
+2. Assess credit risks
+3. Review operational risks
+4. Analyze regulatory risks
+5. Evaluate competition risks
+6. Review technology risks
+7. Assess foreign exchange risks
+8. Review interest rate risks
+9. Evaluate compliance risks
+10. Assess reputational risks |
